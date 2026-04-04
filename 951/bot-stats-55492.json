@@ -1,0 +1,5350 @@
+{
+  "validatorTargets": [
+    {
+      "votePubkey": "CwSZ17woioM2bqEbaswZJYvx5pemN6t3shBcU6zqPHyG",
+      "delta": "118501582454",
+      "existingStake": "19718774616002",
+      "existingActiveStake": "19695823462607",
+      "targetStake": {
+        "directed": "154445640928",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "15200309352226"
+      },
+      "targetTotalStake": "19837276198456",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4qvFxnUXYjBdcviCwVV7gKcGJMCENEBfS82hSLJUhyvu",
+      "delta": "25107738781",
+      "existingStake": "4818922095343",
+      "existingActiveStake": "4818922095343",
+      "targetStake": {
+        "directed": "244833085364",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "116675543459"
+      },
+      "targetTotalStake": "4844029834124",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF",
+      "delta": "357585562",
+      "existingStake": "162731514482",
+      "existingActiveStake": "162731514482",
+      "targetStake": {
+        "directed": "110139169399",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "52949930645"
+      },
+      "targetTotalStake": "163089100044",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
+      "delta": "28125622483",
+      "existingStake": "4813602849500",
+      "existingActiveStake": "4813602849500",
+      "targetStake": {
+        "directed": "262910556896",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "96296709785"
+      },
+      "targetTotalStake": "4841728471983",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "GA2t11gJcmuZ4y7pShTzgYDkxVaJaVQJqkVUqojhPPsT",
+      "delta": "55236958783",
+      "existingStake": "9314495688784",
+      "existingActiveStake": "9294433431828",
+      "targetStake": {
+        "directed": "194802946173",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "4692408496092"
+      },
+      "targetTotalStake": "9369732647567",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc",
+      "delta": "-428519452178",
+      "existingStake": "5168382854752",
+      "existingActiveStake": "5168382854752",
+      "targetStake": {
+        "directed": "172571837638",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "84770359634"
+      },
+      "targetTotalStake": "4739863402574",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "pENgUh4K9zNacyU3PXVE9KugW98XCqZsWpEvA8d8wzX",
+      "delta": "-259045644",
+      "existingStake": "2033222222",
+      "existingActiveStake": "2033222222",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "1774176578"
+      },
+      "targetTotalStake": "1774176578",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "G1juWDqojmp5CWDhgRqtXrtpAFw9xqhjmEQAKr9faf4V",
+      "delta": "344747102",
+      "existingStake": "52870059529",
+      "existingActiveStake": "52870059529",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "53214806631"
+      },
+      "targetTotalStake": "53214806631",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "3xjfK9C9YNcta8MvK1US4sQ3bc6DEjoJoR3qLExGf9xE",
+      "delta": "8560380",
+      "existingStake": "1765616198",
+      "existingActiveStake": "1765616198",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "1774176578"
+      },
+      "targetTotalStake": "1774176578",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "fVotEjqpmpQYgyVyBCwYm62BKqqTQNE6SpYnRmdBazH",
+      "delta": "416090653",
+      "existingStake": "64902740677",
+      "existingActiveStake": "64902740677",
+      "targetStake": {
+        "directed": "48905117678",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "16413713652"
+      },
+      "targetTotalStake": "65318831330",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4m1PbxzwLdUnEwog3T9UKxgjktgriHgE1CfAhMqDw7Xx",
+      "delta": "27361631218",
+      "existingStake": "4595486326564",
+      "existingActiveStake": "4595486326564",
+      "targetStake": {
+        "directed": "136369375758",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "3957376722"
+      },
+      "targetTotalStake": "4622847957782",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ",
+      "delta": "77535987378",
+      "existingStake": "13477751319464",
+      "existingActiveStake": "13477751319464",
+      "targetStake": {
+        "directed": "403852130940",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "8668913970599"
+      },
+      "targetTotalStake": "13555287306842",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Gvt8s5Bwnhg4G27VbnT1Zkfh7Jsztq6CNvZcc5anPonS",
+      "delta": "91284569922",
+      "existingStake": "15821033209824",
+      "existingActiveStake": "15821033209824",
+      "targetStake": {
+        "directed": "212539085504",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "10954475684"
+      },
+      "targetTotalStake": "15912317779746",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw",
+      "delta": "26154368013",
+      "existingStake": "4652084073109",
+      "existingActiveStake": "4652084073109",
+      "targetStake": {
+        "directed": "194303795300",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "1413440520"
+      },
+      "targetTotalStake": "4678238441122",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "6JfBwvcz5QUKQJ37BMKTLrf968DDJBtwoZLw19aHwFtQ",
+      "delta": "-4982328297",
+      "existingStake": "17968321666902",
+      "existingActiveStake": "17968321666902",
+      "targetStake": {
+        "directed": "143502375394",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "2131012744654"
+      },
+      "targetTotalStake": "17963339338605",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM",
+      "delta": "27117267294",
+      "existingStake": "6188383234147",
+      "existingActiveStake": "6188383234147",
+      "targetStake": {
+        "directed": "1540000588198",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "192978707941"
+      },
+      "targetTotalStake": "6215500501441",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "EfnywDKqArxK6N6FS9ctsuzNdxfx3pzfXEQE5EevQ1SV",
+      "delta": "59072450605",
+      "existingStake": "20214295987813",
+      "existingActiveStake": "20214295987813",
+      "targetStake": {
+        "directed": "10145178567181",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "5645668665935"
+      },
+      "targetTotalStake": "20273368438418",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "xLabsqDpN9WHXEXSJXk1yhqh5H8BgcqiBP1CR6Mkjcb",
+      "delta": "76160565233",
+      "existingStake": "14101983247035",
+      "existingActiveStake": "14101983247035",
+      "targetStake": {
+        "directed": "958267875471",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "8737354731495"
+      },
+      "targetTotalStake": "14178143812268",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
+      "delta": "91986748015",
+      "existingStake": "17506379385036",
+      "existingActiveStake": "17506379385036",
+      "targetStake": {
+        "directed": "1765572438097",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "143969476397"
+      },
+      "targetTotalStake": "17598366133051",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "dedxrPfNqPKBRmUyP9LDkaitpQzU6PD44jA6GP9Ndhk",
+      "delta": "35773714143",
+      "existingStake": "9564463540690",
+      "existingActiveStake": "9564463540690",
+      "targetStake": {
+        "directed": "177898377138",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "4939817672393"
+      },
+      "targetTotalStake": "9600237254833",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "steakxfubt37xYdvuXz7BV5Uhhhk1FyJx9zGHfDcTVr",
+      "delta": "31569464883",
+      "existingStake": "6390773649482",
+      "existingActiveStake": "6390773649482",
+      "targetStake": {
+        "directed": "1021713884248",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "918108024815"
+      },
+      "targetTotalStake": "6422343114365",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD",
+      "delta": "65171322413",
+      "existingStake": "11142423314031",
+      "existingActiveStake": "11142423314031",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "1291623189"
+      },
+      "targetTotalStake": "11207594636444",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ",
+      "delta": "-94503121606",
+      "existingStake": "57499854841185",
+      "existingActiveStake": "56911770194005",
+      "targetStake": {
+        "directed": "50259492169434",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "2663338344843"
+      },
+      "targetTotalStake": "57405351719579",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "9ymU1ayh9mZVyDL4dUUtXKtX1wCaFNzZPGutLJgqzuC1",
+      "delta": "89398360885",
+      "existingStake": "16061906865286",
+      "existingActiveStake": "16061906865286",
+      "targetStake": {
+        "directed": "169020574824",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "293460432790"
+      },
+      "targetTotalStake": "16151305226171",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4FsAxdHQ6HmFrDD7yCwsKNApuA67QYSCMoLAy3NfySxJ",
+      "delta": "65227499926",
+      "existingStake": "11198126692466",
+      "existingActiveStake": "11198126692466",
+      "targetStake": {
+        "directed": "46241095493",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "10810083644"
+      },
+      "targetTotalStake": "11263354192392",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
+      "delta": "95983293968",
+      "existingStake": "16622863734319",
+      "existingActiveStake": "16622863734319",
+      "targetStake": {
+        "directed": "211834007657",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "12024491815328"
+      },
+      "targetTotalStake": "16718847028287",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7",
+      "delta": "65211767903",
+      "existingStake": "11268672400261",
+      "existingActiveStake": "11268672400261",
+      "targetStake": {
+        "directed": "118545796409",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "9035358499"
+      },
+      "targetTotalStake": "11333884168164",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "76DafWkJ6pGK2hoD41HjrM4xTBhfKqrDYDazv13n5ir1",
+      "delta": "26681847128",
+      "existingStake": "4707868390217",
+      "existingActiveStake": "4707868390217",
+      "targetStake": {
+        "directed": "170577923087",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "81451108956"
+      },
+      "targetTotalStake": "4734550237345",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "21wUViiyG1g47VZ39ZZsSkFX9nu6bkyfy6jryHGD2TUB",
+      "delta": "94539558819",
+      "existingStake": "15847106513367",
+      "existingActiveStake": "15847106513367",
+      "targetStake": {
+        "directed": "148237543403",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "104584310225"
+      },
+      "targetTotalStake": "15941646072186",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "gVot34jauJpexBL2YUSPBKsmZ4V2ffmDcRk4yfSEnx8",
+      "delta": "14737468675",
+      "existingStake": "2617825820536",
+      "existingActiveStake": "2617825820536",
+      "targetStake": {
+        "directed": "111660694132",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "2520902595078"
+      },
+      "targetTotalStake": "2632563289211",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "CHiaohVV2SQCFhiYP73iQzWT6HxnZqnAZJJqAYTeLAo",
+      "delta": "94542832948",
+      "existingStake": "16625039332916",
+      "existingActiveStake": "5487174913763",
+      "targetStake": {
+        "directed": "1016166166446",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "14591780861"
+      },
+      "targetTotalStake": "16719582165864",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG",
+      "delta": "91974412576",
+      "existingStake": "16186803426117",
+      "existingActiveStake": "16186803426117",
+      "targetStake": {
+        "directed": "458480069110",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "131473551026"
+      },
+      "targetTotalStake": "16278777838693",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR",
+      "delta": "29745067212",
+      "existingStake": "5291392446256",
+      "existingActiveStake": "5289862854679",
+      "targetStake": {
+        "directed": "459910223705",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "378706084460"
+      },
+      "targetTotalStake": "5321137513468",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
+      "delta": "109603180968",
+      "existingStake": "18890479898615",
+      "existingActiveStake": "18890479898615",
+      "targetStake": {
+        "directed": "364431516410",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "14153130357871"
+      },
+      "targetTotalStake": "19000083079583",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x",
+      "delta": "107075019657",
+      "existingStake": "20480223962150",
+      "existingActiveStake": "20480223962150",
+      "targetStake": {
+        "directed": "2156714892015",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "2741759871234"
+      },
+      "targetTotalStake": "20587298981807",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "HMk1qny4fvMnajErxjXG5kT89JKV4cx1PKa9zhQBF9ib",
+      "delta": "26226535622",
+      "existingStake": "6469510702717",
+      "existingActiveStake": "6469510702717",
+      "targetStake": {
+        "directed": "2005160150899",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "8055882138"
+      },
+      "targetTotalStake": "6495737238339",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "BDn3HiXMTym7ZQofWFxDb7ZGQX6GomQzJYKfytTAqd5g",
+      "delta": "54787748363",
+      "existingStake": "11514927169941",
+      "existingActiveStake": "11514927169941",
+      "targetStake": {
+        "directed": "1170931682949",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "5916262030053"
+      },
+      "targetTotalStake": "11569714918304",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "EpicsoqLdDP8qRn3wQRKTSKAXbjK9dUgFfNPRQS77MQD",
+      "delta": "38702628",
+      "existingStake": "5988379200",
+      "existingActiveStake": "5988379200",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "6027081828"
+      },
+      "targetTotalStake": "6027081828",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "1Dadio3JRvpEjY6iSmXmhbGy9RiU8Nxh2GmoVbNusbE",
+      "delta": "65171939097",
+      "existingStake": "11142265689489",
+      "existingActiveStake": "11142265689489",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "1134615331"
+      },
+      "targetTotalStake": "11207437628586",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "DriFTm3wM9ugxhCA1K3wVQMSdC4Dv4LNmyZMmZiuHRpp",
+      "delta": "-201764793982",
+      "existingStake": "216964688018",
+      "existingActiveStake": "216964688018",
+      "targetStake": {
+        "directed": "13200708854",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "1999185182"
+      },
+      "targetTotalStake": "15199894036",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77",
+      "delta": "8460107875",
+      "existingStake": "4333958924771",
+      "existingActiveStake": "4333958924771",
+      "targetStake": {
+        "directed": "2992055551076",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "1350363481570"
+      },
+      "targetTotalStake": "4342419032646",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe",
+      "delta": "95589719972",
+      "existingStake": "16032954552184",
+      "existingActiveStake": "4896253002255",
+      "targetStake": {
+        "directed": "251246181710",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "188473871889"
+      },
+      "targetTotalStake": "16128544272156",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "6oscGUEkXE8fyWoC4czRKbM1cuLkJNtgRsX1Un6w88Vf",
+      "delta": "229934097",
+      "existingStake": "35318449287",
+      "existingActiveStake": "35318449287",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "35548383384"
+      },
+      "targetTotalStake": "35548383384",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "hy1oJTV2kX9acsqpwk7hbteqXFw9VDbWvbxoamFEufW",
+      "delta": "125152097",
+      "existingStake": "19223512089",
+      "existingActiveStake": "19223512089",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "19348664186"
+      },
+      "targetTotalStake": "19348664186",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub",
+      "delta": "94595047552",
+      "existingStake": "15809452137504",
+      "existingActiveStake": "15806464845837",
+      "targetStake": {
+        "directed": "191958631375",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "23264335124"
+      },
+      "targetTotalStake": "15904047185056",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "novaoLcuVHSudkW3Cphuhiv82vspN5qzinGCtEbwQxz",
+      "delta": "26870335033",
+      "existingStake": "4723925798994",
+      "existingActiveStake": "4723925798994",
+      "targetStake": {
+        "directed": "154600998225",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "113673930500"
+      },
+      "targetTotalStake": "4750796134027",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "FahWJg2PkphJaMUUCzdYhXkD5NngUuuFRFD3YCE3BSwb",
+      "delta": "5655902013",
+      "existingStake": "875175499196",
+      "existingActiveStake": "875175499196",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "880831401209"
+      },
+      "targetTotalStake": "880831401209",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "Va1idkzkB6LEmVFmxWbWU8Ao9qehC62Tjmf68L3uYKj",
+      "delta": "-316152790159",
+      "existingStake": "6098822222027",
+      "existingActiveStake": "6098822222027",
+      "targetStake": {
+        "directed": "1001933990481",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "298214236085"
+      },
+      "targetTotalStake": "5782669431868",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "STeaKrJdxdPMww27XJsjRBfrzqfjFT1BxotgQtFyDgx",
+      "delta": "-4552857619863",
+      "existingStake": "6071400914388",
+      "existingActiveStake": "6071400914388",
+      "targetStake": {
+        "directed": "100663651814",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "1417879642712"
+      },
+      "targetTotalStake": "1518543294525",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "R2D2vs3bJwpNF2ejaB6UW1JdCZ5VstuAmuwxDuUUWNj",
+      "delta": "133199546",
+      "existingStake": "50750984340",
+      "existingActiveStake": "50750984340",
+      "targetStake": {
+        "directed": "30173505980",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "20710677906"
+      },
+      "targetTotalStake": "50884183886",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "EATzgj3KL3NAkaSKv8JFXPJahGueMbvTdVZj4zD9nQiV",
+      "delta": "28002687515",
+      "existingStake": "4926033168327",
+      "existingActiveStake": "4926033168327",
+      "targetStake": {
+        "directed": "144292982838",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "327221667702"
+      },
+      "targetTotalStake": "4954035855842",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "fdvtuDvWJZ89Z7TmeLjCwxgoLcmoEWNxruV48DvJtfm",
+      "delta": "26230097984",
+      "existingStake": "4790807542648",
+      "existingActiveStake": "4790807542648",
+      "targetStake": {
+        "directed": "330575479115",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "3940956215"
+      },
+      "targetTotalStake": "4817037640632",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4RcSXeQbgG1v27M27PNNLhy9PGB6uaJACXUZ3kBVc4kF",
+      "delta": "25744021799",
+      "existingStake": "4725355753409",
+      "existingActiveStake": "4725355753409",
+      "targetStake": {
+        "directed": "209600819763",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "58977750143"
+      },
+      "targetTotalStake": "4751099775208",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "sdo2QoiSsPknraeCts5GeBkV3AYDdtuxJ3VpYCS1CxR",
+      "delta": "46557794826",
+      "existingStake": "8115161224950",
+      "existingActiveStake": "8115161224950",
+      "targetStake": {
+        "directed": "180306272065",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "3498891542410"
+      },
+      "targetTotalStake": "8161719019776",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "sfo5vA1fFdPRsvqd8qdePtTnK97Qj6Jj3GupEzmNPjJ",
+      "delta": "38321566273",
+      "existingStake": "6687032471992",
+      "existingActiveStake": "6687032471992",
+      "targetStake": {
+        "directed": "148916820368",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "2093916012595"
+      },
+      "targetTotalStake": "6725354038265",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "PUFFiNkUHF2DMfbKeUcYTSQckDDtkswfxZCDv5WQqwp",
+      "delta": "127298424896",
+      "existingStake": "22852004542942",
+      "existingActiveStake": "22852004542942",
+      "targetStake": {
+        "directed": "1079330561877",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "6211148187404"
+      },
+      "targetTotalStake": "22979302967838",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Lua298Woc4rgcswL64yfWAL4EW44FgBZeLsKforf6tJ",
+      "delta": "39513822098",
+      "existingStake": "7002500129609",
+      "existingActiveStake": "7002500129609",
+      "targetStake": {
+        "directed": "282940712731",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "2276552033675"
+      },
+      "targetTotalStake": "7042013951707",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "H2tJNyMHnRF6ahCQLQ1sSycM4FGchymuzyYzUqKEuydk",
+      "delta": "-265033885",
+      "existingStake": "93833647370",
+      "existingActiveStake": "93833647370",
+      "targetStake": {
+        "directed": "87071460553",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "6497152932"
+      },
+      "targetTotalStake": "93568613485",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj",
+      "delta": "-11115060955221",
+      "existingStake": "15776082262252",
+      "existingActiveStake": "15776082262252",
+      "targetStake": {
+        "directed": "175862571198",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "2637530530"
+      },
+      "targetTotalStake": "4661021307031",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "DPhzpiNGU9C6576uLsNSHmdi2AxwxpjMsRdh2iVC4TPh",
+      "delta": "198019777",
+      "existingStake": "30640394886",
+      "existingActiveStake": "30640394886",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "30838414663"
+      },
+      "targetTotalStake": "30838414663",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "H1kyn75BFTXr8QRmToRRvuEEmYan5n6M5APyfhMLau3b",
+      "delta": "-2660912089688",
+      "existingStake": "3091769684440",
+      "existingActiveStake": "3091769684440",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "430857594752"
+      },
+      "targetTotalStake": "430857594752",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "9Gko8QZBbV5SrEvHKtQHcMrGGSfgFP3KJUozEGifu25x",
+      "delta": "27938975365",
+      "existingStake": "4608871008402",
+      "existingActiveStake": "4608871008402",
+      "targetStake": {
+        "directed": "154288778465",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4636809983767",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "mesh3Px7WMi7Dkxke4ZZBULoKHM6sp37wKtg4DwPqPY",
+      "delta": "27932576139",
+      "existingStake": "5909489222759",
+      "existingActiveStake": "5909489222759",
+      "targetStake": {
+        "directed": "1454900593596",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5937421798898",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "unRgBLTLNXdBmenHXNPAg3AMn3KWcV3Mk4eoZBmTrdk",
+      "delta": "27938952283",
+      "existingStake": "4612518600595",
+      "existingActiveStake": "4612518600595",
+      "targetStake": {
+        "directed": "157936347576",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4640457552878",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "B1w6SZcyvjyp6zEyStcc8u9AxXAh2AbYvNzMmP9rRKE9",
+      "delta": "96905025691",
+      "existingStake": "26082404205988",
+      "existingActiveStake": "26082404205988",
+      "targetStake": {
+        "directed": "10490485013121",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "26179309231679",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "EtMSc3MvcDXUr6ChK5GxyFVwTxYA3zqP5XzjE9jwKvSV",
+      "delta": "27615112453",
+      "existingStake": "15271071534091",
+      "existingActiveStake": "15271071534091",
+      "targetStake": {
+        "directed": "10816165441242",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15298686646544",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "dcntrKBwh8j5yL62Eg96Z5QjJWv3UXxMu4rqL82w6Cb",
+      "delta": "27938776661",
+      "existingStake": "4654623246696",
+      "existingActiveStake": "4654623246696",
+      "targetStake": {
+        "directed": "200040818055",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4682562023357",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Ebm1XKkMzaFg2L5rzLPBnFHMtpDPa6SWJ7nVUzZUmXmR",
+      "delta": "97124366270",
+      "existingStake": "22743067871279",
+      "existingActiveStake": "22743067871279",
+      "targetStake": {
+        "directed": "7151368018991",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "22840192237549",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "CNcaYdqkCwxDpKSVK8in5f6kqrTiZ5SuHsHFDqx6jNvu",
+      "delta": "-1212193211",
+      "existingStake": "2358157813",
+      "existingActiveStake": "2358157813",
+      "targetStake": {
+        "directed": "1145964602",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "1145964602",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "StepeLdhJ2znRjHcZdjwMWsC4nTRURNKQY8Nca82LJp",
+      "delta": "27540249049",
+      "existingStake": "4951242207408",
+      "existingActiveStake": "3534013577581",
+      "targetStake": {
+        "directed": "496261251155",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4978782456457",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "SWiz8fJt7CV99Uv9VZTLGAkMP3vTpc6u7ZqNN5dsWXU",
+      "delta": "69498252600",
+      "existingStake": "11142917058748",
+      "existingActiveStake": "11142917058748",
+      "targetStake": {
+        "directed": "6112298093",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11212415311348",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Luna8BkZNpZ9DKmszrZYPvFpTr4eJJfxxTnGDwTrYkv",
+      "delta": "96396578860",
+      "existingStake": "15814903155251",
+      "existingActiveStake": "15813721329209",
+      "targetStake": {
+        "directed": "222475515553",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15911299734111",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4",
+      "delta": "-4454581398445",
+      "existingStake": "4587676530786",
+      "existingActiveStake": "4587676530786",
+      "targetStake": {
+        "directed": "133095132341",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "133095132341",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "BmMVRAVef2qmJ1tJpG3JwRUtnfEiTbvDw9ZeFEi4wE7D",
+      "delta": "97294341344",
+      "existingStake": "15738744372143",
+      "existingActiveStake": "15738744372143",
+      "targetStake": {
+        "directed": "147214494929",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15836038713487",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA",
+      "delta": "-481305392692",
+      "existingStake": "496118696145",
+      "existingActiveStake": "496118696145",
+      "targetStake": {
+        "directed": "14813303453",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "14813303453",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "GREEDkpTvpKzcGvBu9qd36yk6BfjTWPShB67gLWuixMv",
+      "delta": "96396578863",
+      "existingStake": "15754927019364",
+      "existingActiveStake": "15753734509877",
+      "targetStake": {
+        "directed": "162499379670",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15851323598227",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H",
+      "delta": "69702661776",
+      "existingStake": "11238678990734",
+      "existingActiveStake": "11238678990734",
+      "targetStake": {
+        "directed": "102078639255",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11308381652510",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW",
+      "delta": "28114148626",
+      "existingStake": "4652923343702",
+      "existingActiveStake": "4652923343702",
+      "targetStake": {
+        "directed": "198516287025",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4681037492328",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "goJiRADNdmfnJ4iWEyft7KaYMPTVsRba2Ee1akDEBXb",
+      "delta": "27938356826",
+      "existingStake": "4598982137460",
+      "existingActiveStake": "4598982137460",
+      "targetStake": {
+        "directed": "144399288984",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4626920494286",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "8zuMRTXThoPTTPLLvaiKiJshLLCqGMt9BdRjjCL19xBc",
+      "delta": "96396578870",
+      "existingStake": "15782671363815",
+      "existingActiveStake": "15781486838876",
+      "targetStake": {
+        "directed": "190243724128",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15879067942685",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "LNRmxHyXAzgBkgxDmb4ZefwLAnSv3fdsjPgjmThoa1T",
+      "delta": "28005847411",
+      "existingStake": "14765297361764",
+      "existingActiveStake": "14765297361764",
+      "targetStake": {
+        "directed": "10310782003873",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "14793303209175",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "5iJDEVRi1nMLwKAWhYbEokZnvBAe15rgFaHGkggVEP9z",
+      "delta": "69495426308",
+      "existingStake": "11207464841230",
+      "existingActiveStake": "11207464841230",
+      "targetStake": {
+        "directed": "70657254282",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11276960267538",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "mintrNtxN3PhAB45Pt41XqyKghTTpqcoBkQTZqh96iR",
+      "delta": "27767589765",
+      "existingStake": "4611165888136",
+      "existingActiveStake": "4611165888136",
+      "targetStake": {
+        "directed": "156412272599",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4638933477901",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT",
+      "delta": "27925490503",
+      "existingStake": "5570728648983",
+      "existingActiveStake": "5570728648983",
+      "targetStake": {
+        "directed": "1116132934183",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5598654139486",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "mythxna3hpzXSbaseyR12vu5Vvym1HxS92eCgXLvY7w",
+      "delta": "27939054998",
+      "existingStake": "4605984590494",
+      "existingActiveStake": "4605984590494",
+      "targetStake": {
+        "directed": "151402440189",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4633923645492",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "AbacusTT3yhEFEKkQKjGStDhKDnvSFGpg9EqBwz8FnDF",
+      "delta": "97316630878",
+      "existingStake": "19423578911567",
+      "existingActiveStake": "19423578911567",
+      "targetStake": {
+        "directed": "3832071323888",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "19520895542445",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "DfpdmTsSCBPxCDwZwgBMfjjV8mF8xHkGRcXP8dJBVmrq",
+      "delta": "27938270234",
+      "existingStake": "4665365136337",
+      "existingActiveStake": "4665365136337",
+      "targetStake": {
+        "directed": "210782201268",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4693303406571",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81",
+      "delta": "27924422137",
+      "existingStake": "5569776777463",
+      "existingActiveStake": "5569776777463",
+      "targetStake": {
+        "directed": "1115179994298",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5597701199600",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "fuyugZxM5S4NyV3ZYoc6ebs3fmRTrZ3X27MKCFvHpVD",
+      "delta": "27939254486",
+      "existingStake": "4596038124219",
+      "existingActiveStake": "4596038124219",
+      "targetStake": {
+        "directed": "141456173403",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4623977378705",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ",
+      "delta": "-341134484",
+      "existingStake": "699806145171",
+      "existingActiveStake": "699806145171",
+      "targetStake": {
+        "directed": "699465010687",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "699465010687",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9",
+      "delta": "27964169764",
+      "existingStake": "4604613671710",
+      "existingActiveStake": "4604613671710",
+      "targetStake": {
+        "directed": "150056636171",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4632577841474",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "86Sw9R6ynPmXnHfwUWinXtq1QoF2KHesfQQyZG5r8sXo",
+      "delta": "27540249091",
+      "existingStake": "5317974244072",
+      "existingActiveStake": "5316693788766",
+      "targetStake": {
+        "directed": "862993287861",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5345514493163",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "J1to2NAwajc8hD6E6kujdQiPn1Bbt2mGKKZLY9kSQKdB",
+      "delta": "-47717750",
+      "existingStake": "1352416593",
+      "existingActiveStake": "1352416593",
+      "targetStake": {
+        "directed": "1304698843",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "1304698843",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "Hmq1oALENff8DejgYhJxB4njb6pyCtuMKKxotdZicB4n",
+      "delta": "123446244",
+      "existingStake": "550521499103",
+      "existingActiveStake": "550521499103",
+      "targetStake": {
+        "directed": "550644945347",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "550644945347",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "7JZTyHRTmzHfmHH89uT9xKSKDVJ1VnNQ1FeTeM4iH3J2",
+      "delta": "27939088485",
+      "existingStake": "4602666997931",
+      "existingActiveStake": "4602666997931",
+      "targetStake": {
+        "directed": "148084881114",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4630606086416",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "ALPHAthakWdoUxXJP6z8cjCkwrufcARXqi34EjShtFVT",
+      "delta": "27604009286",
+      "existingStake": "4996228851496",
+      "existingActiveStake": "4996228851496",
+      "targetStake": {
+        "directed": "541311655480",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5023832860782",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "bXr9MyoUAaGusQZ4gaUPmSZByHAV7RRGr1FhCW5tFh8",
+      "delta": "29265641",
+      "existingStake": "141131457056",
+      "existingActiveStake": "141131457056",
+      "targetStake": {
+        "directed": "141160722697",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "141160722697",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf",
+      "delta": "96396578860",
+      "existingStake": "15902276306562",
+      "existingActiveStake": "15901100114840",
+      "targetStake": {
+        "directed": "309848666865",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15998672885422",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "adraBKLNY3DL3pg6SJRDYiMA8BsznaWpUdE42X41gbP",
+      "delta": "27939418076",
+      "existingStake": "4603309667964",
+      "existingActiveStake": "4603309667964",
+      "targetStake": {
+        "directed": "148727880738",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4631249086040",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt",
+      "delta": "-14475960",
+      "existingStake": "30311844506",
+      "existingActiveStake": "30311844506",
+      "targetStake": {
+        "directed": "30297368546",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "30297368546",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "HAYEKSWg2EY21k38St9X5yM7QMW6SunKDefs5SqYSFty",
+      "delta": "-6404222264501",
+      "existingStake": "11134296356322",
+      "existingActiveStake": "11134296356322",
+      "targetStake": {
+        "directed": "247552886519",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4730074091821",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv",
+      "delta": "3237291",
+      "existingStake": "3112215336",
+      "existingActiveStake": "3112215336",
+      "targetStake": {
+        "directed": "3115452627",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "3115452627",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "LimeNKYH66uR9BwnrPtxPbpqmkambxHVcutGoSaWPiq",
+      "delta": "-4454899348953",
+      "existingStake": "4583553446196",
+      "existingActiveStake": "4583553446196",
+      "targetStake": {
+        "directed": "128654097243",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "128654097243",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "pine9rHVDS1pjwdhYkx3vRyaAyRd5KPDKXZEXAqvxcX",
+      "delta": "-1734125",
+      "existingStake": "70543146544",
+      "existingActiveStake": "70543146544",
+      "targetStake": {
+        "directed": "70541412419",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "70541412419",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "prt1s9dMM15LdsUX9HugajzqPB5WVN8a2mw3frAiCfj",
+      "delta": "27939044169",
+      "existingStake": "4607508059222",
+      "existingActiveStake": "4607508059222",
+      "targetStake": {
+        "directed": "152925898088",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4635447103391",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "2ZiMfQaT59j86HVWCvspuMtBotnVBeTc3BKk3kKpwgKP",
+      "delta": "27540249047",
+      "existingStake": "4623427895253",
+      "existingActiveStake": "4620559482824",
+      "targetStake": {
+        "directed": "168446938997",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4650968144300",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz",
+      "delta": "27621071503",
+      "existingStake": "4602410777899",
+      "existingActiveStake": "4602410777899",
+      "targetStake": {
+        "directed": "147510644100",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4630031849402",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "StakeyJXE1yJbEApBVswHN4JdZXcj7V5MHbzffa4dFp",
+      "delta": "27937936077",
+      "existingStake": "4821242261514",
+      "existingActiveStake": "4821242261514",
+      "targetStake": {
+        "directed": "366658992289",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4849180197591",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF",
+      "delta": "-196114",
+      "existingStake": "3553999639",
+      "existingActiveStake": "3553999639",
+      "targetStake": {
+        "directed": "3553803525",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "3553803525",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "2QE9X9X4tdDUTYic1DgBBJjU7cWUNPbKYGerCb9KqDQN",
+      "delta": "-26136225",
+      "existingStake": "26457381916",
+      "existingActiveStake": "26457381916",
+      "targetStake": {
+        "directed": "26431245691",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "26431245691",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "3QPGLackJy5LKctYYoPGmA4P8ncyE197jdxr1zP2ho8K",
+      "delta": "96396578869",
+      "existingStake": "15773040375701",
+      "existingActiveStake": "15737100965885",
+      "targetStake": {
+        "directed": "180612736013",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15869436954570",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Hx4UJCvf8amGeuW9fPFfTckRoznDHxPSYiU9HuUSZKLT",
+      "delta": "-201799892",
+      "existingStake": "15548219250",
+      "existingActiveStake": "15548219250",
+      "targetStake": {
+        "directed": "15346419358",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15346419358",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "ELE2xaC6i6pmeu7bfrYjBv4whBeTAbgwcg5hf2ythiBs",
+      "delta": "28084059893",
+      "existingStake": "4593259618217",
+      "existingActiveStake": "4593259618217",
+      "targetStake": {
+        "directed": "138822472808",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4621343678110",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "9f7dqiYNBZbgPesAnLeWnKCtxYHSfMg5x1EMZCJwVwG7",
+      "delta": "69498308611",
+      "existingStake": "11142689817309",
+      "existingActiveStake": "11142689817309",
+      "targetStake": {
+        "directed": "5885112665",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11212188125920",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "MFLKX9vSfWXa4ZcVVpp4GF64ZbNUiX9EjSqtqNMdFXB",
+      "delta": "202219",
+      "existingStake": "6941900704",
+      "existingActiveStake": "6941900704",
+      "targetStake": {
+        "directed": "6942102923",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "6942102923",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "nebu1WnZBrFZz5X7sfPWuEqyb8LBSsrXpxaesnK9CRE",
+      "delta": "96396578869",
+      "existingStake": "15771637167510",
+      "existingActiveStake": "15770452101082",
+      "targetStake": {
+        "directed": "179209527821",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15868033746379",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "kyvvvkDpDCtSxQMPhzRhmv14DgUBVEGGzn8Dnb8ircP",
+      "delta": "27939576906",
+      "existingStake": "4590464794528",
+      "existingActiveStake": "4590464794528",
+      "targetStake": {
+        "directed": "135883166132",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4618404371434",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "6q1VNp8Vy2Go12vb8CwbjUqqj2SXr2JYftJRWs71sW23",
+      "delta": "27916637042",
+      "existingStake": "6215700742846",
+      "existingActiveStake": "6215700742846",
+      "targetStake": {
+        "directed": "1761096174586",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "6243617379888",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "FgiteGaHbA22Wt4Quzv3muscQtvX7gzVwvUHbFnb3rTJ",
+      "delta": "27617010556",
+      "existingStake": "4714908715877",
+      "existingActiveStake": "4714908715877",
+      "targetStake": {
+        "directed": "260004521131",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4742525726433",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "8D8XL6ovqx15RKwC1XtFyTz6H8JYF2fUsxTnsY4b123P",
+      "delta": "-24684256",
+      "existingStake": "106066543131",
+      "existingActiveStake": "106066543131",
+      "targetStake": {
+        "directed": "106041858875",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "106041858875",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "F3scMRjzSvXUa7JoK2uwBjNsYGi5sM84sDzE7FfGBo6o",
+      "delta": "27939105430",
+      "existingStake": "4601964843801",
+      "existingActiveStake": "4601964843801",
+      "targetStake": {
+        "directed": "147382743928",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4629903949231",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "5afRnmkFn1pRU9oussqwk1RRBVyoDgUkL16Jz4qNf574",
+      "delta": "-14171780",
+      "existingStake": "50693142266",
+      "existingActiveStake": "50693142266",
+      "targetStake": {
+        "directed": "50678970486",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "50678970486",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "MicobSZgB9CZNvmnFSYbEtMjy7CUui5o6P3XoGTwZC5",
+      "delta": "10564893857030",
+      "existingStake": "5530463246676",
+      "existingActiveStake": "4861443960299",
+      "targetStake": {
+        "directed": "406532885149",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "16095357103706",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "3ZUQekqiZoybB57y49eqtvSaoonqDwuNbeqEGwN88JkQ",
+      "delta": "96396578860",
+      "existingStake": "15826724287658",
+      "existingActiveStake": "15825542979111",
+      "targetStake": {
+        "directed": "234296647961",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15923120866518",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "CP6mfD4Qc5AYrboXBAQeHMYj5x1UnYksDXRjG7DMkHH7",
+      "delta": "-1388771",
+      "existingStake": "1224507065",
+      "existingActiveStake": "1224507065",
+      "targetStake": {
+        "directed": "1223118294",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "1223118294",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "1oH9rfyrbKoP7ucJ1Zr2HLHmDU8N6G1G6dEuruFsSqy",
+      "delta": "11281570899857",
+      "existingStake": "4587652327118",
+      "existingActiveStake": "4587652327118",
+      "targetStake": {
+        "directed": "180399008417",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15869223226975",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "DG6fVEB2Qy1jntvHVPui3R12CMqcwNNnjYPYdsbQ9ACP",
+      "delta": "27936832946",
+      "existingStake": "4706263249781",
+      "existingActiveStake": "4706263249781",
+      "targetStake": {
+        "directed": "251678877425",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4734200082727",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "CiTYUYPAPHdcri5yEfsmqVcs54J6j8X1QaiFLgYqMVe",
+      "delta": "96396578869",
+      "existingStake": "15764514809188",
+      "existingActiveStake": "15763324559971",
+      "targetStake": {
+        "directed": "172087169500",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15860911388057",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "o27rnqfNHPwHsRp2xPXXwWzn2q2dGxn6UD4Rt5KMU5h",
+      "delta": "11233922087010",
+      "existingStake": "4645251843221",
+      "existingActiveStake": "4645251843221",
+      "targetStake": {
+        "directed": "190349711674",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15879173930231",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "NeodymeDFipD7eA1ShrLJAZTBdHWcFsDB9YkoHshZNk",
+      "delta": "-7131770",
+      "existingStake": "24848357672",
+      "existingActiveStake": "24848357672",
+      "targetStake": {
+        "directed": "24841225902",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "24841225902",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "SKRuTecmFDZHjs2DxRTJNEK7m7hunKGTWJiaZ3tMVVA",
+      "delta": "809096",
+      "existingStake": "3000951548",
+      "existingActiveStake": "3000951548",
+      "targetStake": {
+        "directed": "3001760644",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "3001760644",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "57GUg9QH2LFMV11oaduuoqVJ5qHDEp7EGJ2xgkGiqAum",
+      "delta": "27939272450",
+      "existingStake": "4594984488970",
+      "existingActiveStake": "4594984488970",
+      "targetStake": {
+        "directed": "140402556118",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4622923761420",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "H4QVPxS7napq3NEYxqLhxbKi9nJ8s56dD2EQZGsyZ3sb",
+      "delta": "96396578860",
+      "existingStake": "15744356232842",
+      "existingActiveStake": "15743164113516",
+      "targetStake": {
+        "directed": "151928593145",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15840752811702",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "edu1fZt5i82cFm6ujUoyXLMdujWxZyWYC8fkydWHRNT",
+      "delta": "-89760049",
+      "existingStake": "437425333617",
+      "existingActiveStake": "437425333617",
+      "targetStake": {
+        "directed": "437335573568",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "437335573568",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "gridZ5cMHjWGktAQt6o36NtF7XSv19nJBrW83zmo7BM",
+      "delta": "-9136960",
+      "existingStake": "3126936252",
+      "existingActiveStake": "3126936252",
+      "targetStake": {
+        "directed": "3117799292",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "3117799292",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "stsaYQJUhKZDHSqndGtgo6jgbhVaHBSHhtfVWxCwrhD",
+      "delta": "-3564601",
+      "existingStake": "35980288123",
+      "existingActiveStake": "35980288123",
+      "targetStake": {
+        "directed": "35976723522",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "35976723522",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "vvvvXsU6iG2enDVvs4KeVqS4YrZczTujSv5p3dSeNHx",
+      "delta": "27511958029",
+      "existingStake": "4734405403939",
+      "existingActiveStake": "4731842029802",
+      "targetStake": {
+        "directed": "279396156666",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4761917361968",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "QWmexgr4teHa2ZF85tyf2hvEwBvJ6ioAEr1h8DRjoie",
+      "delta": "27939281010",
+      "existingStake": "4598719637759",
+      "existingActiveStake": "4598719637759",
+      "targetStake": {
+        "directed": "144137713467",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4626658918769",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "5szskKdH8nfnUuHTvn9hnhH3Xuvo7RVmcDDvD5WD7yNh",
+      "delta": "96396578871",
+      "existingStake": "15810844252791",
+      "existingActiveStake": "15809661048175",
+      "targetStake": {
+        "directed": "218416613105",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15907240831662",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "RSSAw6n7Tvqi5iJc2xvHMfk1bhx47GVqj2pj1bq5NUq",
+      "delta": "-10745335",
+      "existingStake": "24924631639",
+      "existingActiveStake": "24924631639",
+      "targetStake": {
+        "directed": "24913886304",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "24913886304",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "odc2aCE7yWTcV8ApP1cHmVqQZTkLNduqaYyKE1XhpE3",
+      "delta": "27940903411",
+      "existingStake": "4616458825661",
+      "existingActiveStake": "4616458825661",
+      "targetStake": {
+        "directed": "161878523770",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4644399729072",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "Defi89YpAhk3Gst1Jpsi3Nhj7yCu5HropESh37SQ2v9g",
+      "delta": "-1654527",
+      "existingStake": "25630671389",
+      "existingActiveStake": "25630671389",
+      "targetStake": {
+        "directed": "25629016862",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "25629016862",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "EdkhvJYa3kWQkFJAPzmGsQyi1D2JA5a7vwWw4hDuwbt",
+      "delta": "-2376736",
+      "existingStake": "5023363648",
+      "existingActiveStake": "5023363648",
+      "targetStake": {
+        "directed": "5020986912",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5020986912",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "phz34EcgWRCT9otPzRS2JtSzVHxQJk4SovqJvV1TQk8",
+      "delta": "27938877775",
+      "existingStake": "4620861240970",
+      "existingActiveStake": "4620861240970",
+      "targetStake": {
+        "directed": "166278913443",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4648800118745",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "34mSDco9FM8599y4QF1GJvyWUrPixeT3zRNZAvzNXF6x",
+      "delta": "69706101098",
+      "existingStake": "11255312402760",
+      "existingActiveStake": "11255312402760",
+      "targetStake": {
+        "directed": "118715490603",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11325018503858",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4KfAqBj3Jvi9GGngFK1MbZkjHTcSFyvhFnVwc2QrNiEh",
+      "delta": "96396578870",
+      "existingStake": "15796057141696",
+      "existingActiveStake": "15794873254035",
+      "targetStake": {
+        "directed": "203629502009",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "15892453720566",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "DTELA4aHtJB8zcMJvKgcUjAYfkGcKdRUN77cpFoMVgxz",
+      "delta": "-4573821895287",
+      "existingStake": "4584157016528",
+      "existingActiveStake": "4584157016528",
+      "targetStake": {
+        "directed": "10335121241",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "10335121241",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "H6rbcwuQtadcv9JvxLM7GEskF6xFXnrNT3iPkk4RfyBE",
+      "delta": "27939623408",
+      "existingStake": "4599392810614",
+      "existingActiveStake": "4599392810614",
+      "targetStake": {
+        "directed": "144811228720",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4627332434022",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf",
+      "delta": "4189667316204",
+      "existingStake": "474113869321",
+      "existingActiveStake": "316267819231",
+      "targetStake": {
+        "directed": "181259980222",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4663781185525",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4BVYjw1ztUzUPsxsaCheWWwThT2X4rjogZytGnuWPUGg",
+      "delta": "-26344962",
+      "existingStake": "203421060596",
+      "existingActiveStake": "203421060596",
+      "targetStake": {
+        "directed": "203394715634",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "203394715634",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "74y2qkCaJ5L17hTsz3E8jftNxTBCTvdz4P2L6qTHDW59",
+      "delta": "27938789696",
+      "existingStake": "4636189667138",
+      "existingActiveStake": "4636189667138",
+      "targetStake": {
+        "directed": "181607251532",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4664128456834",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "mALLoAbdQrgsnm7kWJyPrhcQcmxfT73t8DaqEkpZNd6",
+      "delta": "-84716",
+      "existingStake": "3489382892",
+      "existingActiveStake": "3489382892",
+      "targetStake": {
+        "directed": "3489298176",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "3489298176",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "DPmsofVJ1UMRZADgwYAHotJnazMwohHzRHSoomL6Qcao",
+      "delta": "-34440286",
+      "existingStake": "53125563633",
+      "existingActiveStake": "53125563633",
+      "targetStake": {
+        "directed": "53091123347",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "53091123347",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "radYEig9KGrMTMWbWRFV7LStotQbnLgPaEFHVDsudQz",
+      "delta": "27938545169",
+      "existingStake": "4644017684232",
+      "existingActiveStake": "4644017684232",
+      "targetStake": {
+        "directed": "189435024099",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4671956229401",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "chrtyiAw8suFRvS7rTcfgcDyNu49bGPNZ2fjSPzNPFr",
+      "delta": "27540249056",
+      "existingStake": "4632202964887",
+      "existingActiveStake": "4630454830523",
+      "targetStake": {
+        "directed": "177222008641",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4659743213943",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "FLCrbfbwEhFARa8nK9rnZw8BVtKNAuHujh9EhWy5A4U4",
+      "delta": "-9308221823",
+      "existingStake": "15037770121",
+      "existingActiveStake": "15037770121",
+      "targetStake": {
+        "directed": "5729548298",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "5729548298",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "noMiSdYbNQmFDrH2qMvYRXXzb5DUvjyPyDkXadzAPUV",
+      "delta": "27540249054",
+      "existingStake": "4628944820043",
+      "existingActiveStake": "4598731007548",
+      "targetStake": {
+        "directed": "173963863795",
+        "bucketDirectedStake": "4482521205302",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "4656485069097",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "2g2QU1NDRax6i2mKzRwgRfdBFoDkMC6bj7Zp5Q3i8sCq",
+      "delta": "69421321135",
+      "existingStake": "11136881692120",
+      "existingActiveStake": "11136881692120",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "6hkfqeNAbURk7CmAQsP4Qm6WwHVF4LxHupEvQf7Tkrf1",
+      "delta": "-54828340641",
+      "existingStake": "11261131353896",
+      "existingActiveStake": "11261131353896",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "323d4ZiSqS1PwGwpJwD88jNPaGqkm7YYW2tJt2T8iFzo",
+      "delta": "7143327537977",
+      "existingStake": "4062975475278",
+      "existingActiveStake": "4062975475278",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "6BUqzA7GtQJ3qZXHrViMSGFdXNvrbcD56Png1mNRqGN6",
+      "delta": "69421478992",
+      "existingStake": "11136881534263",
+      "existingActiveStake": "11136881534263",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "5eJQDSbgTZSEmH3zSWDEdAKgjavUUn9BkouCFNLz1x93",
+      "delta": "5028972718656",
+      "existingStake": "6177330294599",
+      "existingActiveStake": "6177330294599",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "EMVmh5hF6LT1sZM9G7dEX1bykRYEymWY2vtE7QHBBAW6",
+      "delta": "69421456055",
+      "existingStake": "11136881557200",
+      "existingActiveStake": "11136881557200",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "94EhHE7MaKHq4p8oFADeyizDjwYwgFn1YBYGky8mR35z",
+      "delta": "69421450261",
+      "existingStake": "11136881562994",
+      "existingActiveStake": "11136881562994",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "8jxSHbS4qAnh5yueFp4D9ABXubKqMwXqF3HtdzQGuphp",
+      "delta": "69421879757",
+      "existingStake": "11136881133498",
+      "existingActiveStake": "11136881133498",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "9G19HT8xqceG7mKQVSrTRS3DGnGqDHErPyQEaEfyWEuW",
+      "delta": "69421300233",
+      "existingStake": "11136881713022",
+      "existingActiveStake": "11136881713022",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "gfR2VCrsVcm1gF2teasQpP6BdX99mVVFhEQck3UhTNC",
+      "delta": "69421263283",
+      "existingStake": "11136881749972",
+      "existingActiveStake": "11136881749972",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "BH2PMb9vuHxkVFMMHbH8iudCoBfUoX5tVaHfnEkKJ2gQ",
+      "delta": "69423466823",
+      "existingStake": "11136879546432",
+      "existingActiveStake": "11136879546432",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "4YykTGwg94GgHZEPSsQfbaMaEE9HHAHqSuXT65L6C6wf",
+      "delta": "11206299730375",
+      "existingStake": "3282880",
+      "existingActiveStake": "3282880",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "11206303013255",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "11206303013255",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "juicQdAnksqZ5Yb8NQwCLjLWhykvXGktxnQCDvMe6Nx",
+      "delta": "-1127374790",
+      "existingStake": "1127374790",
+      "existingActiveStake": "1127374790",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "BiUSTKzDM57pkf52SqxqckEk4ap7d25y2GB4GLXxdgj7",
+      "delta": "-241003984506",
+      "existingStake": "241003984506",
+      "existingActiveStake": "241003984506",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "SWnetzxKaKtuysePKKAzdPAk3gqWgPYxg31vet69Xnz",
+      "delta": "-145446794734",
+      "existingStake": "145446794734",
+      "existingActiveStake": "145446794734",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "VALiDsfZKafvvQM5CMHhJd6PeVx9UpeDEC4Zk3WYikz",
+      "delta": "-281300457513",
+      "existingStake": "281300457513",
+      "existingActiveStake": "281300457513",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "5HScvYkTWL9iojhPv26xK7GqB7oBsj9A2qHCeNRFmdyG",
+      "delta": "-3138316789",
+      "existingStake": "3138316789",
+      "existingActiveStake": "3138316789",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": false
+    },
+    {
+      "votePubkey": "6hcGvZypizjf6PPsxboshZHRqefyQKSG9L8vZqYdm7UY",
+      "delta": "-4566484",
+      "existingStake": "4566484",
+      "existingActiveStake": "4566484",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "pt1LsjkNwqCKdYYfc35ToDkqtEG9pswLTJNaMo8inft",
+      "delta": "-8182057555491",
+      "existingStake": "8182057555491",
+      "existingActiveStake": "8182057555491",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    },
+    {
+      "votePubkey": "HdQ1Ap8wm6Mz65FaP8jMNBVfCDv5T9NdS8UTSvHmcotn",
+      "delta": "-11135046389878",
+      "existingStake": "11135046389878",
+      "existingActiveStake": "11135046389878",
+      "targetStake": {
+        "directed": "0",
+        "bucketDirectedStake": "0",
+        "bucketPerformance": "0",
+        "bucketGauges": "0"
+      },
+      "targetTotalStake": "0",
+      "meetsDelegationCriteria": true,
+      "onAllowList": true
+    }
+  ],
+  "actualIncreases": [
+    {
+      "votePubkey": "CwSZ17woioM2bqEbaswZJYvx5pemN6t3shBcU6zqPHyG",
+      "amount": 118501582454,
+      "tx": "5VpMdiMCtei2LuUdSW4fapwk71tYT5jmbFjKWwfsR9fphTRLThTtnfWV8KdSUGXATZNdE3Hiv59oFMUxx5iKjnSt"
+    },
+    {
+      "votePubkey": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
+      "amount": 109603180967,
+      "tx": "3DhEg9Qssf7EdRA4g5GUE4iK8BPwTMwVtc6XpsuLZqjrjWKdSgzbFqJFw2LCgHDSd6GL1AAanhCPMCrJ3QzHyMTo"
+    },
+    {
+      "votePubkey": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
+      "amount": 95983293967,
+      "tx": "4Grg3ZqzihxJtjeuPeBLDjMpS1F3UE4tfgBHQnuB8DCbUdp4hqPd8SUxJYNJcNwcwcpGEuytGhVh2HRbwS7oj7k8"
+    },
+    {
+      "votePubkey": "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ",
+      "amount": 77535987377,
+      "tx": "3Gc38sJ7iiU5vknfTBLLrxL3kAzrmPbjhWYHgXes385c7epJBF83DQroAxYwNEMgfeq3YeHdg7Tep1d8xoCDTDMZ"
+    },
+    {
+      "votePubkey": "xLabsqDpN9WHXEXSJXk1yhqh5H8BgcqiBP1CR6Mkjcb",
+      "amount": 76160565232,
+      "tx": "2oKy11gy1ZVJy9BiK7tkwkX7KPTkCmv4exQSSjLCWNtNjqt758LDxnsL1Gpx3qJQ61ZPqdmptp9HHmTsjprf2Yfb"
+    },
+    {
+      "votePubkey": "PUFFiNkUHF2DMfbKeUcYTSQckDDtkswfxZCDv5WQqwp",
+      "amount": 127298424895,
+      "tx": "59B1sUwYufLsNdC9NWq5kubyBTUWurgZydbj51b6gMxFh7jV7itJZGEU9NGC4npr15K4HTA7B1CZHDmCssHWwEGG"
+    },
+    {
+      "votePubkey": "BDn3HiXMTym7ZQofWFxDb7ZGQX6GomQzJYKfytTAqd5g",
+      "amount": 54787748362,
+      "tx": "4B35xHUPKom2vRsvedH94hXqpt6uJ9zgWT1CP2aSqHrSasbCBqnhpqmWjWuqXhRjGSpxMjEpKkYZeNXVdctwbexC"
+    },
+    {
+      "votePubkey": "GA2t11gJcmuZ4y7pShTzgYDkxVaJaVQJqkVUqojhPPsT",
+      "amount": 55236958783,
+      "tx": "4h69CcbpyfV3sY5pV4xhNY9Tx41iKvpwefb3Q9yxAHeiauSmREkUQA4fWkSwkmk9wbcmnyZCPssEhGGNP9yvVzZK"
+    },
+    {
+      "votePubkey": "sdo2QoiSsPknraeCts5GeBkV3AYDdtuxJ3VpYCS1CxR",
+      "amount": 46557794826,
+      "tx": "2fFVHjApFvB6aWuzz64feTtpxZZZ1rGjfvPaXHWrfYzxr9BPn33N4acC2UcYmAowpPkTemTD5cfWAA4WTJAVtj7e"
+    },
+    {
+      "votePubkey": "dedxrPfNqPKBRmUyP9LDkaitpQzU6PD44jA6GP9Ndhk",
+      "amount": 35773714143,
+      "tx": "46BzC6y4bScCNSGd3ghkAcbcTjt26iCGGhKugGrWC4GgM5c8tdni9cf9fDLBNdsgwDvW3Cb68Co7i1Tz7Hg1V9Eq"
+    },
+    {
+      "votePubkey": "EfnywDKqArxK6N6FS9ctsuzNdxfx3pzfXEQE5EevQ1SV",
+      "amount": 59072450604,
+      "tx": "2EdDHBFc9dZUKHMHrAJfYxY3sD55K9HLd1JM2GYWV5MkTeZuCaz1M4APCHdSSTJDiYNr3Ts5Yk6dKSgQEfzgreAL"
+    },
+    {
+      "votePubkey": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x",
+      "amount": 107075019656,
+      "tx": "SDB7RNpmRA4BNazDEVDvvQXBcpxK9zsCxRvwttQLibp6gAxJxsmCM3uHrAJmXJyd17whHS6bzvAAhJ8w2ZAsNsW"
+    },
+    {
+      "votePubkey": "gVot34jauJpexBL2YUSPBKsmZ4V2ffmDcRk4yfSEnx8",
+      "amount": 14737468674,
+      "tx": "2dVn2DkLKpYfdaGhxEg5PsXkHGLvBpmM8c8WpURrwLUdBJmNWyLAKMqBmnm5WmNi74C1bdT4hYTdrrZw7UdqbX29"
+    },
+    {
+      "votePubkey": "Lua298Woc4rgcswL64yfWAL4EW44FgBZeLsKforf6tJ",
+      "amount": 39513822098,
+      "tx": "4Vm2acDijDRHfczEXDDnq6DCDxmcNPqXKdvqCxzt6ikgdLYLdGfZbfeg4h24riD7gaGRT22EqSMQ3TkENN5UqEfd"
+    },
+    {
+      "votePubkey": "sfo5vA1fFdPRsvqd8qdePtTnK97Qj6Jj3GupEzmNPjJ",
+      "amount": 38321566272,
+      "tx": "ic4Y7iDxntwjnsaiBdt1DSxjnkVrf9jgoNCFC3sSukPAgsReAGCv7cgD6hVxtxn5xRqVwdtkd1m7LxUFuATC38k"
+    },
+    {
+      "votePubkey": "FahWJg2PkphJaMUUCzdYhXkD5NngUuuFRFD3YCE3BSwb",
+      "amount": 5655902013,
+      "tx": "DqyLE8kGZpo76FhEt1yVsuYWZ7BWkASQeub3mpC5J3iqN1iuJbvZBPGzVLWG6pmaaKW1SabE5mUDBChqsZsNsPR"
+    },
+    {
+      "votePubkey": "steakxfubt37xYdvuXz7BV5Uhhhk1FyJx9zGHfDcTVr",
+      "amount": 31569464883,
+      "tx": "31CW3LnSf4kQyfVgWkztd1YUTJ456Uwp994mRwdPJqh4ZqgAghdXQbxsNjxsvFHjKLhNCG2Abuxf12rpM7T8ZF4y"
+    },
+    {
+      "votePubkey": "sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77",
+      "amount": 8460107874,
+      "tx": "27b2zstZBSz4fih2NuibAywdNRYNQ76mcfPnAgqP72H4SRJ6E59xkFdsDVQv2Aidee4SEnivo3HNKQWWz3QJxZ39"
+    },
+    {
+      "votePubkey": "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR",
+      "amount": 29745067211,
+      "tx": "AxPHSf5tF3aYnuBqUPabuuYV9AYa1rve2mWjU9iN8xwMEPotEowTzWcdLefpdAVmFtz2Mmtapr6YZ1LSrCCFT9N"
+    },
+    {
+      "votePubkey": "EATzgj3KL3NAkaSKv8JFXPJahGueMbvTdVZj4zD9nQiV",
+      "amount": 28002687514,
+      "tx": "ob3vMpidqZ1BiuK21dGsAet895b1qULtgEAv7pAqStx4WmBURWavrEh1GPphLW8KvrJvPDkSSPfHbro8YwBuvkS"
+    },
+    {
+      "votePubkey": "9ymU1ayh9mZVyDL4dUUtXKtX1wCaFNzZPGutLJgqzuC1",
+      "amount": 89398360885,
+      "tx": "4kY4kGXqBJpgu59UAbYc6A8s1RsudLRa31XZRSxJMigusEYomBwM37qG3MhmvtwaZkTVpZ8jfTFezq6MvFxGiqxT"
+    },
+    {
+      "votePubkey": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe",
+      "amount": 95589719972,
+      "tx": "5dMh3pD9PjZJvPxeo8LVc4v13zasKTsdPHzBAGwwx8WdmRqZaW7mmFCJDKiUhCgFqxqHaxZHcWyVrPptDKxZwbkn"
+    },
+    {
+      "votePubkey": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM",
+      "amount": 27117267294,
+      "tx": "5YdBQ1tYWEsiyswmEczQ8fAurLySYwvPW9qhfw3Kz4Gg4iYPhtc5i1S6W1SB9VRxJepw3n6pBrs9fKcakBTRiB37"
+    },
+    {
+      "votePubkey": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
+      "amount": 91986748014,
+      "tx": "4oxDPHuRBbSduT3vFb9AFvXi1yemYNsjdY45GeEsPR6bKUep8nF5WQS1pF3FoS45J9ww1qfpvWKTvUvdjnU5F64W"
+    },
+    {
+      "votePubkey": "AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG",
+      "amount": 91974412576,
+      "tx": "2BWxsAhm6Rc5oqxYtmf2BgMosznrsGFBDmmfDUvT9m81eG6Qhx3SYpwNzr9yBq1w3Sm1b6is2fs9ksdocvTzkXsv"
+    },
+    {
+      "votePubkey": "novaoLcuVHSudkW3Cphuhiv82vspN5qzinGCtEbwQxz",
+      "amount": 26870335032,
+      "tx": "41SgxPwMNmN5fsHjVFU5kkuXA9tH1h6Wx3EfsbV78EshxfghDuPBQ3mRYNH5bnhzkjSwqXZKT3C7Py9dhULstHzi"
+    },
+    {
+      "votePubkey": "21wUViiyG1g47VZ39ZZsSkFX9nu6bkyfy6jryHGD2TUB",
+      "amount": 94539558818,
+      "tx": "5NJBmytj3EiMBEsVAtF6vubUcZuQzLdhgXbowRNbwNVYCjJQ8e3v8qNVXzt97NDR6XuDwkQjzrGKhxm5yUWfxiZh"
+    },
+    {
+      "votePubkey": "4qvFxnUXYjBdcviCwVV7gKcGJMCENEBfS82hSLJUhyvu",
+      "amount": 25107738781,
+      "tx": "67X2WaW66rBfL5t6wCvx5DQwkB2CFtDRmojiRgktFDguWNWiPBSzsQpGGcziQrXJ5xNFtct1vot1cM4kFFetEJWu"
+    },
+    {
+      "votePubkey": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
+      "amount": 28125622482,
+      "tx": "4VWevBU77n9yyErLRJQpsaPkm15pwj9EcAi3yWMWRsKsoTYXrnScvhVPmgowNBhPwXvY5amtcqnJAGduTTKTyPSX"
+    },
+    {
+      "votePubkey": "4RcSXeQbgG1v27M27PNNLhy9PGB6uaJACXUZ3kBVc4kF",
+      "amount": 25744021798,
+      "tx": "2XgLhpwsEMUyq9j2EYm1EnRCRDzja45xikAAARv79sHAzXvLJ2jBsEwyc4YwtPKnopTpmZ9EG49xa8yJZjyaGszj"
+    },
+    {
+      "votePubkey": "Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub",
+      "amount": 94595047552,
+      "tx": "5Wh6BJpEbd3hR9J1p4UBz9rkF5HyeV3KZaZM9LnvaZHDpond9dRhmXwb8XcTGj7azAyoooHKAFduyaZm9qWNA1rM"
+    },
+    {
+      "votePubkey": "CHiaohVV2SQCFhiYP73iQzWT6HxnZqnAZJJqAYTeLAo",
+      "amount": 94542832948,
+      "tx": "Y29bFm3KCpLt81uZ1FPvyXC9hCx4duAajpPKVpe2PBJNcL8AtA6mpKYcNZEKYMuw7cvHVtV6hZM4ZTf9navfjqc"
+    },
+    {
+      "votePubkey": "4FsAxdHQ6HmFrDD7yCwsKNApuA67QYSCMoLAy3NfySxJ",
+      "amount": 65227499925,
+      "tx": "5zPSvcamt6yg7GyRNSPVWoKyaYnMcbpEHXfPLtHUbRyKnzAW28gDSnDYB1eRdotPdMXzPBrHhBbjCmR6iPMypMbr"
+    },
+    {
+      "votePubkey": "3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7",
+      "amount": 65211767902,
+      "tx": "61m2RmbZuaMQT1RaNy7NX23jwHu69i3feEyvz85gaDQ2qfLBRnoYjaL5H6Rn2M6oTb7b19hHX9MaQjkEKfL8MeqA"
+    },
+    {
+      "votePubkey": "HMk1qny4fvMnajErxjXG5kT89JKV4cx1PKa9zhQBF9ib",
+      "amount": 26226535622,
+      "tx": "417J4PUmMx2QgyHdHb33E19uzpnJophxRNTM7NNKTYR3Ufpt5VuRUPBgqod2Na8bGcHA3fbLh5axrTNkofxzbNUr"
+    },
+    {
+      "votePubkey": "fdvtuDvWJZ89Z7TmeLjCwxgoLcmoEWNxruV48DvJtfm",
+      "amount": 26230097983,
+      "tx": "51jJTAzgBCWKYsxR4emZiXAZkTnZZDCtgSHqNzgeHRLnDb6FxJ1BF8PX4ML24n4zYgo1vbAnzT7JST2NdPS6zRQX"
+    },
+    {
+      "votePubkey": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw",
+      "amount": 26154368012,
+      "tx": "5xH93VSvMkw6nth9hHnm1fxnr1iPrFVPf93RBkMgo3WvngDq6bnjbMhPGBQpYDXqpgiFhVmPYhMfd8oRVbRDWJSx"
+    },
+    {
+      "votePubkey": "3iPuTgpWaaC6jYEY7kd993QBthGsQTK3yPCrNJyPMhCD",
+      "amount": 65171322412,
+      "tx": "5S37CqXMeYYJNQHFz529fuePT4dgd3gJ49ymC6Hjd8ibv6nHeirgbNMUp62N5ug5YFixhuQfFXJuti9NCMNHVw7L"
+    },
+    {
+      "votePubkey": "1Dadio3JRvpEjY6iSmXmhbGy9RiU8Nxh2GmoVbNusbE",
+      "amount": 65171939097,
+      "tx": "5o1CcXQwV118N4PJTmpLgKqr98WgwZH68GeweY8GDbqJpyDwQ5cUKrweUThVqLKQhypew392zVTxFHfrS4jkqQTr"
+    },
+    {
+      "votePubkey": "MicobSZgB9CZNvmnFSYbEtMjy7CUui5o6P3XoGTwZC5",
+      "amount": 4462353407953,
+      "tx": "5QAMaff7wJhcVnRYCB8dhboETPedViJvAHvDQ9txW7TLGQwySxTPamEjjgEp6SJFKJQXe7daEBrnjUQf2UdjNrGQ"
+    }
+  ],
+  "actualDecreases": [],
+  "actualAdds": [],
+  "actualRemovals": [],
+  "directedStakeTargets": [
+    {
+      "votePubkey": "J1to3PQfXidUUhprQWgdKkQAMWPJAEqSJ7amkBDE9qhF",
+      "sum": "110139169398.9312723455",
+      "wallets": [
+        {
+          "adress": "FCakBX9EUZonT4U8oscZDDx3bHyRBxTGWC7F5ZKUsmBS",
+          "amount": "6850810856.909092"
+        },
+        {
+          "adress": "PoLoy5q6vPoFU3BPFoG485LSMsQyXXRDy2Y6AS5qVkX",
+          "amount": "587132.5658859937"
+        },
+        {
+          "adress": "HzcxVGL3dsjmLpvK7Wnwp4U3NSSp9TUQnvfpnhcuKmPg",
+          "amount": "100071888892.36229"
+        },
+        {
+          "adress": "9HQLjsNeG5ZTjUjf3xggDxHJRsff1j2kfxkBqeEUGKMe",
+          "amount": "1199116975.7326517"
+        },
+        {
+          "adress": "DSeaf7sheji3NFyRu7qtQQANLh9JKrjdXQjErKkbZbVv",
+          "amount": "12066003.685703183"
+        },
+        {
+          "adress": "7dWwbj7efvMMFRKHVZ14Ps3kJwAsGgLMgtaGc9RcbAPA",
+          "amount": "855788076.0534135"
+        },
+        {
+          "adress": "7ZsB85RRYN7zAE4FUrdbN2kVUyFJryj4PfX4YbPKb6C2",
+          "amount": "409856.1638314688"
+        },
+        {
+          "adress": "CjEXHEHdioS8yguc1T7vcGfstyyVVe6Xc4Tc1ae6E1nm",
+          "amount": "1148501605.4584045"
+        }
+      ]
+    },
+    {
+      "votePubkey": "9Gko8QZBbV5SrEvHKtQHcMrGGSfgFP3KJUozEGifu25x",
+      "sum": "154288778465.2053907",
+      "wallets": [
+        {
+          "adress": "97sMdsuQEQYBMYLovtELQnwJpXGzQMDn497E3ZBQD1AW",
+          "amount": "153470276958.29803"
+        },
+        {
+          "adress": "r1hUzERZaASRpVZTNmNK6KVwePyGHSMunk5ApjPVFeT",
+          "amount": "818501506.9073607"
+        }
+      ]
+    },
+    {
+      "votePubkey": "fVotEjqpmpQYgyVyBCwYm62BKqqTQNE6SpYnRmdBazH",
+      "sum": "48905117677.72449889015",
+      "wallets": [
+        {
+          "adress": "7sMN8xJsySrFDNgvKcTYYwsUDuTHVPgqGhqe8XphdSPk",
+          "amount": "1922361073.8873014"
+        },
+        {
+          "adress": "D3fVrGKT37F8WDHH6Qk4BRLTig5VUdhCBhrKt8tFDPGX",
+          "amount": "73138590.20449156"
+        },
+        {
+          "adress": "HPqJfzZp95b9gMUVE546kAMqLH9ZDmhsRnB8Z8XowZy2",
+          "amount": "7220013.305793715"
+        },
+        {
+          "adress": "93MxqvDvCdzQts1QpkAWPBj745rAVXqfAEyU5JvvtAj8",
+          "amount": "14151063.981327597"
+        },
+        {
+          "adress": "gmaX1nVWSRxR1XgiyUhSVFB4nmyhz7nA3kCh9zd4th2",
+          "amount": "116332.80939167195"
+        },
+        {
+          "adress": "JAj3XfYsYC85d682iYZe8c6gcUWrYvwz5utSQrpXPnLQ",
+          "amount": "1503289.7859781196"
+        },
+        {
+          "adress": "9cUJb7XRVT4RZeRetFr572pAx7z2dZ1YHY77WbH5b9aJ",
+          "amount": "1699181.1317802381"
+        },
+        {
+          "adress": "7hUpzsjXGzVJ879RhasTEuagYgTrBgDSVSe29dJ3FsbL",
+          "amount": "1436520.509241009"
+        },
+        {
+          "adress": "WCo1GgYnudUNCaiBajqaJR8k72LQ8CUFJvcXDFCmLH9",
+          "amount": "11447600853.326242"
+        },
+        {
+          "adress": "G1zdstBenHnQjexdHwatatyiFffMGivikPA9TTfyEK3a",
+          "amount": "4990754084.457233"
+        },
+        {
+          "adress": "8LVaZvnCTLvd7jjyw4bcfeyVLmZj712bNMcHj29e6x3z",
+          "amount": "9789937453.325336"
+        },
+        {
+          "adress": "9xe7r8uU5hArUtQuoKpUs9SWhadS2Ws2w1AStSSTutQu",
+          "amount": "4816089.2464805795"
+        },
+        {
+          "adress": "9AfyHBx6n7LP5zobw9urrB3atG4owcpW88th5Zffo7LV",
+          "amount": "20650383131.753902"
+        }
+      ]
+    },
+    {
+      "votePubkey": "7K8DVxtNJGnMtUY1CQJT5jcs8sFGSZTDiG7kowvFpECh",
+      "sum": "262910556895.9531811692774543",
+      "wallets": [
+        {
+          "adress": "EuqeUDmw97MnHe7mqA3ZEAsjrUZ84dBKSLKM79B2rn5t",
+          "amount": "44800748.01669415"
+        },
+        {
+          "adress": "757omZMDbkC1aQE6jGPVyph5dK5iq9wTuZJK4Fkz1zye",
+          "amount": "22393627756.292118"
+        },
+        {
+          "adress": "Etk1W3L51AfRHtwzvHqnVUg5SGW4kDE7MZ7W3QnwBTPu",
+          "amount": "114476008.53326243"
+        },
+        {
+          "adress": "6rgYLy7Pi2owHga6SXz4nmKAgXiSksEK3AhQ4GB4MRwA",
+          "amount": "544540595.8216261"
+        },
+        {
+          "adress": "HCXcmiM4oNLR9GD4ozs5WqKg389pJfzkdUYS6RixTKHk",
+          "amount": "3686.1274747710504"
+        },
+        {
+          "adress": "4p7Uca2koD1aVpn4T1bwPc2bcXqCVhvtaLGdVaTnzLSL",
+          "amount": "3294988355.839186"
+        },
+        {
+          "adress": "E84pd9j3ht7HEvgYBTMBf9KFm2opbPtM9Mq4s1MjFqsT",
+          "amount": "124439584.76808661"
+        },
+        {
+          "adress": "Axs5sPeHPhk6Vb91ZoC9sdp3HNFvgQ4tUNBQWDztTKdw",
+          "amount": "378947840.7157428"
+        },
+        {
+          "adress": "3dt8pSCQxKf8Mdhpr17K1x9HRQaDm6QUfga8ttV82xmc",
+          "amount": "11556024350.4429"
+        },
+        {
+          "adress": "CqLx9xSefiPVwbgsdt3QVcscqj6sHFhci5xM5qdbXkaD",
+          "amount": "777348279.3315598"
+        },
+        {
+          "adress": "EnntqBUfPYUPafpEzQyr9E8quUVD2LN8vC7ZYSjBJGPg",
+          "amount": "504297956.2081021"
+        },
+        {
+          "adress": "6Yjh1ph5aeeyvSncnykAGEC5WPhqbfs92pHfTrGPc5n4",
+          "amount": "4360.391165031966"
+        },
+        {
+          "adress": "xQWm4PfSDShcfPHJvtCAdD6LaQpbzzPW4AadEPanP6Z",
+          "amount": "44800636.97496587"
+        },
+        {
+          "adress": "7zV7mKKihBcobobibYT4jYxF41ebTj8LD4vjhCdXFdqM",
+          "amount": "1119681387.7001297"
+        },
+        {
+          "adress": "Fexu4NMQ8hLedDJSoiHH37WhusCKbkKfqrFxtUniUxV",
+          "amount": "1030284076.7993618"
+        },
+        {
+          "adress": "8fNsw2xDpvXNNEQx4T7RxWWZ1seWTmgYFFG5FtdxZVsC",
+          "amount": "7027.682163856981"
+        },
+        {
+          "adress": "GXzbgMeBVY2qDQ2Joz7PrJmXsd5ZN5y7Rz5VqZobXsW9",
+          "amount": "8367.05146369615"
+        },
+        {
+          "adress": "9wBF2922j7vpSKfqr9Arsybi1zWVF7GY3ZTs6QLjfzEB",
+          "amount": "340097118.32425505"
+        },
+        {
+          "adress": "EGqd9xryXUJA1a9swJpdS8PtWMzMUA51XwFYSSE57GFS",
+          "amount": "137110593.014128"
+        },
+        {
+          "adress": "8nNikttkGXWn1LeTBNkb89HLRzEadxd8CqE3HZo6NuBK",
+          "amount": "44800792.66233748"
+        },
+        {
+          "adress": "6jeNzFGvGjEmvrVrjHwR93XvPTnSg8LKMuWtfngWFNkr",
+          "amount": "44800704.51581091"
+        },
+        {
+          "adress": "8KTUbV95TvuJLVgZhmqNapQKE6XYBuKEo9hspExCU3C6",
+          "amount": "8142955884.090075"
+        },
+        {
+          "adress": "D2VorVhYKxDNVuQKYk8rBu1iaDxbDjArwEJg6puFxHhi",
+          "amount": "1259382769.6861002"
+        },
+        {
+          "adress": "Fp3ckgTBtEZ8qe4esvioTbEgnjbnEtDhVaTX1ewAsBMk",
+          "amount": "44860308.73917392"
+        },
+        {
+          "adress": "3reBwRgdx7ZLSB1j3mGctWrHCJqAaZMytQms77xnn4iX",
+          "amount": "44800879.66410396"
+        },
+        {
+          "adress": "B2QowgG5BNohamCrDVwHVmVs7GghdUuh9ikGvSvGJPBs",
+          "amount": "68720957.6009127"
+        },
+        {
+          "adress": "9cGjgK4N1L9qpy15M72cZJJx2XTpU3HVRVuKtGm3WkWh",
+          "amount": "573030597.2304457"
+        },
+        {
+          "adress": "4KRpjr88WMHGgYjppMpKDrbLeoCMqEKBomJFUh5gJWkk",
+          "amount": "408881670.78218824"
+        },
+        {
+          "adress": "4c6Scmh1paCPomnn76A2j8qSekqpYXCngMxpixgcEsL1",
+          "amount": "1154300715.0720413"
+        },
+        {
+          "adress": "wNS2ZZ9nJH25mEWxSvx8eXeTeQJWZbjf3L3w2pkfRkg",
+          "amount": "114105.10626561465"
+        },
+        {
+          "adress": "ADoXBXFgCkN6yZHqdYUcB7GaNcr3WQZaJmo6iZS5GYPe",
+          "amount": "53667.49756047876"
+        },
+        {
+          "adress": "8526uPCepabV5ZkZKBFrw3AAHJ3RHZ9bUpM6bGjHPNoq",
+          "amount": "1189804792.0263436"
+        },
+        {
+          "adress": "48NZ8M8X7LzgrHVCnGnDpBETjEFS9v4R8nkg6AFqVjYL",
+          "amount": "17011190701.42644"
+        },
+        {
+          "adress": "7NLq8AvLWK8EWffVYwS4Q9uUgpKjMryUcYaoojvaxMRX",
+          "amount": "3352206285.592961"
+        },
+        {
+          "adress": "6csJHaV2xPLASFK7YV9cqP411Vkh8MN7mxo4bD4UydbA",
+          "amount": "8739600844.207981"
+        },
+        {
+          "adress": "6LpQvYaD5ofZdvMuXhqj2MQFCMDyxpyv5DRtaqc1UQtZ",
+          "amount": "1134470904.986729"
+        },
+        {
+          "adress": "gKbCsvZ8EtnCFa9Grf4q3AAPse2PvcZ9kbvd1bbhTmh",
+          "amount": "1645676.1901518768"
+        },
+        {
+          "adress": "9JipXtoAV7iHR4djmjeM6zDey8S6PQX5VJ57G85DWreo",
+          "amount": "1571696174.9551837"
+        },
+        {
+          "adress": "GKQLTBev3jUUkZPuAF24QksffLcS7J3AaPF3hmnEvoTk",
+          "amount": "9950931920.093815"
+        },
+        {
+          "adress": "3SVeFPSRrhWbZFw2vvv8hf5H5t71gL7wLRQdDnUGw4WV",
+          "amount": "843214530.3915172"
+        },
+        {
+          "adress": "ACcUyJtY2be53TZgNFua4fFXWpUWGepizLfVmPjXwM9d",
+          "amount": "105990726839.79408"
+        },
+        {
+          "adress": "DoMavGEK9By86vRghPaKij8ztiLefdM3jH9EMMCycGvn",
+          "amount": "688696.8254167894"
+        },
+        {
+          "adress": "3HZfdStM6zcrUsBEw7mBwCPY4y2y8W6TU6fo8swEnhgg",
+          "amount": "286190021.33315605"
+        },
+        {
+          "adress": "7P45T3FJNwNKjfa2LnD3yFerP1Tov4ycJdUCeJr4RskV",
+          "amount": "1118679736.3625848"
+        },
+        {
+          "adress": "7B5apUY2Du5i5BF2u37Pxwseb1kQB3nbbFu5xYHnHdwM",
+          "amount": "114.47600853326243"
+        },
+        {
+          "adress": "4gAcUCyxE8HtDzh2VTN829EKEdeHeDc3K5hbHfCEVqFb",
+          "amount": "1100099317.4344046"
+        },
+        {
+          "adress": "4iWj26WUozWKPGDUGgSvnhFk2sme6N9d21Mw9b9Fxfzu",
+          "amount": "7526.797561062005"
+        },
+        {
+          "adress": "2aVe5AQvDkE7HR5RP9cWCUMFQ3yeYSnM8kPZSMPMtpA2",
+          "amount": "1140961.7713694905"
+        },
+        {
+          "adress": "FX2bhFo9ykqRDCXcgyXjNkL7Y7N8qRKsWoHq5YpQXLiA",
+          "amount": "505906557.05337036"
+        },
+        {
+          "adress": "84qC44vpro19MNpnB7ag9TubP1PnS1FvpmexyCHLUQDR",
+          "amount": "1.1447600853326243"
+        },
+        {
+          "adress": "5HNJRXLGpCy6hRVvXcmsUmBQK6duQBhnrGSLfFXSLNVd",
+          "amount": "226508831.17056507"
+        },
+        {
+          "adress": "5DM6Wa9fiAfvUGLCegvdcTjVW1rtTwu4Fjpp71onYxyq",
+          "amount": "4598.501262781152"
+        },
+        {
+          "adress": "FxMCSqGBSVY4FEhEHxGGiypH1ZDE7MwbxgdZoTsAXkAc",
+          "amount": "123109782.22828057"
+        },
+        {
+          "adress": "Ap1PS4pPjbbSc1bKG6Ujv5AJsq5vEHJPuok4w7kPuc9g",
+          "amount": "13350099600.218008"
+        },
+        {
+          "adress": "2NJM5ec8De4WDsiiDSKbxHfV6M45CLiRrvNfyh4Ec8sA",
+          "amount": "338364.7517423611"
+        },
+        {
+          "adress": "6imxdjaNVK94ncNmn2bfNAeUk8Gh1GS48yyg7PEkaNDr",
+          "amount": "8317957.282676576"
+        },
+        {
+          "adress": "ChJaUaPDNm9SyL16c3TFtzxfTaS1ziwDFDbsfjHd3D4T",
+          "amount": "4340828.359933717"
+        },
+        {
+          "adress": "3VeuudVhqxq1xFCnKFWNEArJDLiH6WZJh2JiUorUrHS1",
+          "amount": "53806382.143551484"
+        },
+        {
+          "adress": "7PrHNVreQJepjiNcnv3jEhhS8VuqjoLxYDQfDy9Kdd1K",
+          "amount": "2420.022820393168"
+        },
+        {
+          "adress": "Br3P85TGSytYwoXtNUPPhzJvUj69UesoDVrzDMy3q8j8",
+          "amount": "1845104544.6905308"
+        },
+        {
+          "adress": "7TJW67iR4epVp9U5VPrW7iF68Td1jDnBpE8KyifLNnoy",
+          "amount": "40308530201.038574"
+        }
+      ]
+    },
+    {
+      "votePubkey": "mesh3Px7WMi7Dkxke4ZZBULoKHM6sp37wKtg4DwPqPY",
+      "sum": "1454900593596.2375421724114",
+      "wallets": [
+        {
+          "adress": "GmRC6EhKtBEcKM1bjCBzamWDy3qmP5z2Kc9tYjQuc2Pn",
+          "amount": "1199725286.3601165"
+        },
+        {
+          "adress": "ojhV3g32SGtsDiatUaRkvBT1J1TxTYCKCH1998aFKiL",
+          "amount": "189265498228.92038"
+        },
+        {
+          "adress": "BWyWxvKv3P8QvtYbEk3sRvY3rXp74JDbGQF6zrVM1FpP",
+          "amount": "3413260.1713109952"
+        },
+        {
+          "adress": "EXdZNfWheWzNZrg53atXSaWqLNtMssdUzB6kNzHxn9Mf",
+          "amount": "196.8987346772114"
+        },
+        {
+          "adress": "96iTQndAJ4icSS5X6Vx9A2pD4kw7VpbGzUGSEKnjB7wK",
+          "amount": "1264431956623.887"
+        }
+      ]
+    },
+    {
+      "votePubkey": "unRgBLTLNXdBmenHXNPAg3AMn3KWcV3Mk4eoZBmTrdk",
+      "sum": "157936347575.57364",
+      "wallets": [
+        {
+          "adress": "6tBou5MHL5aWpDy6cgf3wiwGGK2mR8qs68ujtpaoWrf2",
+          "amount": "157936347575.57364"
+        }
+      ]
+    },
+    {
+      "votePubkey": "B1w6SZcyvjyp6zEyStcc8u9AxXAh2AbYvNzMmP9rRKE9",
+      "sum": "10490485013121.340087967",
+      "wallets": [
+        {
+          "adress": "GudCATc6qVWqDGeFbFQhD57yjLtfhpNAoiBcGRqjvmKT",
+          "amount": "312668734.2205304"
+        },
+        {
+          "adress": "D76xPovZaiGguwouN5BW7kmPRRpTjAKs7589XxVKazgu",
+          "amount": "833095390463.8226"
+        },
+        {
+          "adress": "251Hfcw5xGWESY95ibQpnivzUr5D3ZqcybbVp4NMRWTX",
+          "amount": "4978084136.259031"
+        },
+        {
+          "adress": "F21nsuNL3wrgtMTd5XpyWLSrx8wt8o6XJknSacLz59dn",
+          "amount": "7917123611584.723"
+        },
+        {
+          "adress": "FY65Rmr1czBNNBR1fPLgTt9T3dR5r82ietVH4phEzGi",
+          "amount": "457904034.1330497"
+        },
+        {
+          "adress": "FMVYqwDCmMt44FpBKmWbgopKspEtbwnQQsyR2ueGBuzH",
+          "amount": "192222521.37603742"
+        },
+        {
+          "adress": "4ko9XSd2srEx1cZhTxmH82K54VzdzASC9a6eCNevggLj",
+          "amount": "426149851902.24963"
+        },
+        {
+          "adress": "goodRTLNjkFbP8WmAxPeutixwftKtyM84X37RmZjkss",
+          "amount": "29648323.466883205"
+        },
+        {
+          "adress": "5XkmK4EemeLcz1qwCW3GPchhphTBirJ4G34cxdDL1hKA",
+          "amount": "0"
+        },
+        {
+          "adress": "E28vfcXPjjbGGmaQgLy5U8oYsQEscYi9byGaDd2F8eCR",
+          "amount": "1308134183820.236"
+        },
+        {
+          "adress": "7Rf8zMVTJi3pzFRma1GZLEUh6LpvLkEq55gMQxhtHA7i",
+          "amount": "11447600.853326242"
+        }
+      ]
+    },
+    {
+      "votePubkey": "EtMSc3MvcDXUr6ChK5GxyFVwTxYA3zqP5XzjE9jwKvSV",
+      "sum": "10816165441242.2765726503",
+      "wallets": [
+        {
+          "adress": "AERY3P5JWpTicGB7XtP5SfNd754vewRipW1bce2R7dLK",
+          "amount": "835891962.6087189"
+        },
+        {
+          "adress": "CdVGrsivkiZDKce6dw9LEm4uM8oMrKqsqWet9vMDSqNS",
+          "amount": "1729181.8593365503"
+        },
+        {
+          "adress": "22K33dFGRvQmavyrk1PqUeSC7t9GHUy7Cf52oGsTr5YM",
+          "amount": "546490762.1678352"
+        },
+        {
+          "adress": "Box9BAX65nU2B3GE4n4FEnmurDQhmqraQzPjbMSDZMKz",
+          "amount": "2224562551.172582"
+        },
+        {
+          "adress": "JARDTp1s5HDNUY4yZsmxEyoVm9JCsjxUWMBg3jYRs9HK",
+          "amount": "756967471805.1681"
+        },
+        {
+          "adress": "6iP7Qkz5Mo5yvsrqhkbgZtyhKhrMnadTFd8jojDvKXqn",
+          "amount": "10055589294979.3"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Ac1beBKixfNdrTAac7GRaTsJTxLyvgGvJjvy4qQfvyfc",
+      "sum": "172571837637.66991336",
+      "wallets": [
+        {
+          "adress": "F8GjpPzHBLNV6ufMRgTiBfDk3MwrPBWLSEPE445eKUrJ",
+          "amount": "9244704748.14848"
+        },
+        {
+          "adress": "H51NdqwzB1XiVqon5RU3XyDCQ9xquVp6ob1y7L7J49NY",
+          "amount": "43049795737.38327"
+        },
+        {
+          "adress": "BUHgkRK1rdFLCns3MEmwH8nvKG2z33KLEStqAYJ8kdGh",
+          "amount": "120156802393.24583"
+        },
+        {
+          "adress": "6yLndF5MWGXhE6F5oZjTcfRxFEzu3RmjCq75THxzfiqq",
+          "amount": "120534758.89233336"
+        }
+      ]
+    },
+    {
+      "votePubkey": "dcntrKBwh8j5yL62Eg96Z5QjJWv3UXxMu4rqL82w6Cb",
+      "sum": "200040818054.63644",
+      "wallets": [
+        {
+          "adress": "468mhwxeahQAdthG5c1UNTx7ywWhC9zK3eVPZU6DED2u",
+          "amount": "200040818054.63644"
+        }
+      ]
+    },
+    {
+      "votePubkey": "91413b9eEvG6UofpSgwdUgH9Lz4QBF1G3J325Bw7JwGR",
+      "sum": "459910223705.334296",
+      "wallets": [
+        {
+          "adress": "JCyncpDM3cKGibbq2dKJEJXRhLUupdVS5RuRqVmu77kn",
+          "amount": "131973136972.295"
+        },
+        {
+          "adress": "H8avLeidfpcnYKtcykCcwyUPeDR8yAVDyr2d4sUk4Jqs",
+          "amount": "3079355751.723396"
+        },
+        {
+          "adress": "6AKCsuNvfeuHgALU4kpSGdka4FYf51rX5NckMwx75KaL",
+          "amount": "324857730981.3159"
+        }
+      ]
+    },
+    {
+      "votePubkey": "PineDoC593nrX16W8ZLWfF5Evb6otv7fRfZMLjPAHe3",
+      "sum": "211834007656.77596",
+      "wallets": [
+        {
+          "adress": "4jKL6AZCUr8xT9dQN4jD7ZkCjJqdWPbtqkkSzNGZoDxX",
+          "amount": "10146731261.527876"
+        },
+        {
+          "adress": "CVHnMEjMyBqdT8458SNvkb6vCzfkWsfVVCmhFoxLR9ep",
+          "amount": "200542494044.3318"
+        },
+        {
+          "adress": "CDCGhMbrzMohdYgrrd9cVSXLUQGp2DCNAtXocxjSvQBE",
+          "amount": "1144782350.916284"
+        }
+      ]
+    },
+    {
+      "votePubkey": "4FsAxdHQ6HmFrDD7yCwsKNApuA67QYSCMoLAy3NfySxJ",
+      "sum": "46241095493.2432274",
+      "wallets": [
+        {
+          "adress": "3SyKb3hh1JSRT24RB7hKVsQBpRcwHMH5tLMWk5mS9XsJ",
+          "amount": "45689170846.86414"
+        },
+        {
+          "adress": "B9BYqnd2RoLYiPVfUMjS7NChxQpVTviToFuaeSj3bLyo",
+          "amount": "551924646.3790874"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Ebm1XKkMzaFg2L5rzLPBnFHMtpDPa6SWJ7nVUzZUmXmR",
+      "sum": "7151368018991.171",
+      "wallets": [
+        {
+          "adress": "3931eyoBV4WinZw8oUKDHq6KnBhvNuuwxXuSuahskoxW",
+          "amount": "7151368018991.171"
+        }
+      ]
+    },
+    {
+      "votePubkey": "CNcaYdqkCwxDpKSVK8in5f6kqrTiZ5SuHsHFDqx6jNvu",
+      "sum": "1145964601.894411373",
+      "wallets": [
+        {
+          "adress": "FFGi5gwZDywKpxtWEHveggBdCfAiyRVxbkQtiJpgEtEZ",
+          "amount": "27942055.125414673"
+        },
+        {
+          "adress": "EdsN43Us8oUT7FvxNbkqnYGvbAF19XN7evv4seBJ8uSz",
+          "amount": "1118022546.7689967"
+        }
+      ]
+    },
+    {
+      "votePubkey": "StepeLdhJ2znRjHcZdjwMWsC4nTRURNKQY8Nca82LJp",
+      "sum": "496261251154.63329855",
+      "wallets": [
+        {
+          "adress": "6XVffJaJf7y2yHMWne3mBhNd94UiJ8HSDdZhzzm9cq13",
+          "amount": "17321114.14870925"
+        },
+        {
+          "adress": "G9J6qwRZmfNprpJJAba1XZoXJaWsjDq1YkueLaza8vXH",
+          "amount": "3646976226.527681"
+        },
+        {
+          "adress": "GbhqSUE9M8aVmt739jwSNnpoGSeJMGBPgWoBMiTDmwwY",
+          "amount": "1034706052.6227045"
+        },
+        {
+          "adress": "DanayVvgHg3dFjhJgjNECxU589vGjzmwRBBZ7nCMVzUg",
+          "amount": "114476008.53326243"
+        },
+        {
+          "adress": "CD8aHTa9VnBRhfQWraVBs7cURzeRKWxV4eQL8QBm6vUb",
+          "amount": "53241698322.938866"
+        },
+        {
+          "adress": "FJP8KCd3APhK5KCASThPAxeDbViZYAREv5QjJ2ZMy2eb",
+          "amount": "410759370632.5628"
+        },
+        {
+          "adress": "9o1rBUx93QQa7YjHudjtr8NVggm7i2MEkkvKnMmWw7bM",
+          "amount": "68185968.85691361"
+        },
+        {
+          "adress": "8P6bCyJJjpwVbJsuCzKQDPQ5vMdXvTiikuCWfLrJZ7pz",
+          "amount": "2630272272.6304073"
+        },
+        {
+          "adress": "8RTcZEdX4Juu22LURdSFkKoQ9fgxu74u3b5LSie4f81k",
+          "amount": "226556774.86769888"
+        },
+        {
+          "adress": "2aWj2T1p42zquWHDBkePWVLeUrs9Prhckf47SfN4V6g7",
+          "amount": "8140973205.412682"
+        },
+        {
+          "adress": "FQH9HNVTuid5MbiM42sCaLMozMeTiL7G7hQazPXFxS1F",
+          "amount": "10759575726.192364"
+        },
+        {
+          "adress": "8rsRcCyAzuc2QJWafMT28SCuP8YrNGAQMEioCEp2LgB1",
+          "amount": "1101470393.1543272"
+        },
+        {
+          "adress": "2yXEeTm4FNT6jfaYBMsqj1fqsWEmq1r97NhkrEKnWMG9",
+          "amount": "579183758.2432742"
+        },
+        {
+          "adress": "DrVWnn1zZQiHf1sfSMoqyTm2ZrDXTzc9xqTY89PN2Q2k",
+          "amount": "2687375175.746048"
+        },
+        {
+          "adress": "9EmTXMnCvKzGVV6Sbv2Pnoe2MLhGZ2VcxrTq68twL4Hm",
+          "amount": "231735543.57013428"
+        },
+        {
+          "adress": "BT3k255oVG2Mhw475eBNPMRiEWPVeooST8wt3YDQ7P63",
+          "amount": "1021373978.6254259"
+        }
+      ]
+    },
+    {
+      "votePubkey": "CwSZ17woioM2bqEbaswZJYvx5pemN6t3shBcU6zqPHyG",
+      "sum": "154445640928.45917428",
+      "wallets": [
+        {
+          "adress": "BEwy7AEC3z6PD6biDKDR58B5u5HErNAmXtspUUwNkvKA",
+          "amount": "7742153725.078109"
+        },
+        {
+          "adress": "AgoVCkcDbbLcZUEfyQJkbZYRBcpqtJswGETjs7u63AUA",
+          "amount": "103322274.46240158"
+        },
+        {
+          "adress": "89hsTAec11MuMYpjNnNGs4QLZy8UmU1F64gykcsUF7Ff",
+          "amount": "6239094592.230542"
+        },
+        {
+          "adress": "EMCq4vZThPNiGhg2KJJEGCikBvhj9xGuEhw9NzKzLDfZ",
+          "amount": "138420390443.30258"
+        },
+        {
+          "adress": "AMpDEnUDxkT8B4TBxwAvTHifrStDiErrsPfGLvsNphc1",
+          "amount": "1940679893.3855417"
+        }
+      ]
+    },
+    {
+      "votePubkey": "CHiaohVV2SQCFhiYP73iQzWT6HxnZqnAZJJqAYTeLAo",
+      "sum": "1016166166446.1072",
+      "wallets": [
+        {
+          "adress": "DhCrUDCEgcLq2LheRauzzFbzAp1qdKifTF7r2hFFPT9i",
+          "amount": "901861871861.5381"
+        },
+        {
+          "adress": "Df7VuBkasBXHyEYUsuqQnEpDvLyZmfoxDnk932CUak2c",
+          "amount": "114304294584.5691"
+        }
+      ]
+    },
+    {
+      "votePubkey": "SWiz8fJt7CV99Uv9VZTLGAkMP3vTpc6u7ZqNN5dsWXU",
+      "sum": "6112298092.976047",
+      "wallets": [
+        {
+          "adress": "AJ875dcohBiQ2SoSS8Dcz5X9gAoTdPtJJCfbEiJUTq4F",
+          "amount": "6112298092.976047"
+        }
+      ]
+    },
+    {
+      "votePubkey": "dedxrPfNqPKBRmUyP9LDkaitpQzU6PD44jA6GP9Ndhk",
+      "sum": "177898377138.22232",
+      "wallets": [
+        {
+          "adress": "9QLrbS4MqRF1nvdvFSMKoASGxyoSctBD88qjo21bo7Vt",
+          "amount": "177898377138.22232"
+        }
+      ]
+    },
+    {
+      "votePubkey": "GA2t11gJcmuZ4y7pShTzgYDkxVaJaVQJqkVUqojhPPsT",
+      "sum": "194802946173.155982991702",
+      "wallets": [
+        {
+          "adress": "9kaUtokHMXKGYNBHju4fUmYSs2zAAWnXQ5dXzv2a4S52",
+          "amount": "8036460459.44998"
+        },
+        {
+          "adress": "CcNgWK3zi4HPMPFjYriLHSJML6duRDRwmpcP9Kvixrw4",
+          "amount": "10240660177.346317"
+        },
+        {
+          "adress": "65k3o3nerTWphyygDa4qVPyx1U4F66UrjEPs1jj6DYQC",
+          "amount": "92633557.96484405"
+        },
+        {
+          "adress": "CtQWAcGd4nuDsixYMGpzrQoxEHt1D55FcZZqySiE28pD",
+          "amount": "2287930094.327681"
+        },
+        {
+          "adress": "9P8VighSgjqdJZfVGzySsGMeWdggRbFvQZkPiKvCD5ty",
+          "amount": "11378511308.162575"
+        },
+        {
+          "adress": "HQBZZBtYHqDKqBtNKFDDXiZ5pTLNpX2ztRqr8SwECotc",
+          "amount": "16628.784999541702"
+        },
+        {
+          "adress": "CzQUTKwMtXd8us868bzdg3bmYivAAccQJxVsMjdU5ANX",
+          "amount": "9102809046.53006"
+        },
+        {
+          "adress": "FYqSRZ9bnvxsTQs42Y3wuR9Yia1gCPKouF8Bqxa5UQA4",
+          "amount": "1095453633.7399464"
+        },
+        {
+          "adress": "54ShLdyt2ZuFBQSo6CKm6arrTDNY9bu244HKmXBfUZm9",
+          "amount": "152568471266.84958"
+        }
+      ]
+    },
+    {
+      "votePubkey": "THWfRpcJSC7oDrNMSCcixTZmCHVBTEVQL4qnd1UTD1x",
+      "sum": "2156714892014.7541061264726243",
+      "wallets": [
+        {
+          "adress": "3zK5Gx5JVLHorAN8q4mAf1LQCZ2Xb871PLPFNYy8RzMQ",
+          "amount": "317497818825.8558"
+        },
+        {
+          "adress": "BSBNMbBsMBaVQ2hU2tfhDV9WaMLkiw9ATWLcycgGKQ34",
+          "amount": "9143759514.199547"
+        },
+        {
+          "adress": "2tePPKeFgLQWTojsNQa1fz3jAZPxJtHpoT3Cxr5aJnkU",
+          "amount": "1141785129345.9119"
+        },
+        {
+          "adress": "6c8FaFkrZ4odZXRNTdmDKjbaubajvrMEHRPH31fTB1eb",
+          "amount": "3634291.593347104"
+        },
+        {
+          "adress": "9i3PoTWAtJNiSToBbLkZHR57TeP6Jt2guu3xNvs82ZQm",
+          "amount": "1.1447600853326243"
+        },
+        {
+          "adress": "2eyJ3pZhPVooAGJcv2L8yv7yHjfT3bLJZV17cc4iqc1h",
+          "amount": "524509710.9168453"
+        },
+        {
+          "adress": "E9qZL6e25Nx7Fne8reJiGNEnohScvB6rGLWEHYiVFmVL",
+          "amount": "634715558841.658"
+        },
+        {
+          "adress": "AZSmoRpGxRUk3KrHeSAfvLwvgLqxHbUkLxhHx4R8yZT2",
+          "amount": "344212.18625824014"
+        },
+        {
+          "adress": "HGxYAfH6CFRiayLm6kcYq9WpnENaiwP9goXP7e6zQbZR",
+          "amount": "505915044.304643"
+        },
+        {
+          "adress": "AyPzkL3oeHV32gsW3H1P6vrGRZRL16pB924huSUMB8GQ",
+          "amount": "9866609976.296015"
+        },
+        {
+          "adress": "6obAxvxz83oi6SSpUS9Y3BtvxfsHQJ61NiNtS6hEzASY",
+          "amount": "1444737866.1521466"
+        },
+        {
+          "adress": "HKiNeY14zzN5y9pVh4MQqphopzbV6cyTkPtPyC17XtHt",
+          "amount": "41225539380.20521"
+        },
+        {
+          "adress": "HdngDytahcEW35efiicc3cj3JHoAZqpoTHPM39aQzAmM",
+          "amount": "1335004.329633797"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Luna8BkZNpZ9DKmszrZYPvFpTr4eJJfxxTnGDwTrYkv",
+      "sum": "222475515553.440853",
+      "wallets": [
+        {
+          "adress": "B3RDMvAdKDu5zPJvBkR2Ardn7GNzAnGaM1WjhmkK38X6",
+          "amount": "206124806643.9606"
+        },
+        {
+          "adress": "9uSXTznkRQnuNvutLjDgfxmXfKQv1ojvrFTjoPKh1mAA",
+          "amount": "16350708909.480253"
+        }
+      ]
+    },
+    {
+      "votePubkey": "sTach38ebT8jnGH8i2D1g8NDAS6An19whVMnSSWPXt4",
+      "sum": "133095132341.3993",
+      "wallets": [
+        {
+          "adress": "JCssGhJS8p438J4AiZGKaE1ARLaMbQD61dDquPUqoV2x",
+          "amount": "133095132341.3993"
+        }
+      ]
+    },
+    {
+      "votePubkey": "BmMVRAVef2qmJ1tJpG3JwRUtnfEiTbvDw9ZeFEi4wE7D",
+      "sum": "147214494929.2849688608",
+      "wallets": [
+        {
+          "adress": "HiPF8pDMBPZc87mEWkonim6n8pBzqPk3w1DZokHEvVsW",
+          "amount": "125267155974.47424"
+        },
+        {
+          "adress": "BrT6HcP7AC5LYBBLbVsD3RG1U6KxyyMTiCNef358ExRs",
+          "amount": "886575.4747270455"
+        },
+        {
+          "adress": "9mARznxpjtM7pikg9VUup7F8UL6pBiv6X2mSgY5CJ7ep",
+          "amount": "1004157.2173718153"
+        },
+        {
+          "adress": "BjZbtpwXFeyRWLjzUnfRKZbmVGn3EyeKJNDuko6XmwJF",
+          "amount": "21945448222.11863"
+        }
+      ]
+    },
+    {
+      "votePubkey": "3a2onvgTpGynakAQwx6gigtSeL7itZewNxqb5JiAvWeA",
+      "sum": "14813303452.790686",
+      "wallets": [
+        {
+          "adress": "9hMq9E6NqKr3u2WkLUqT9scmvuG9Xw7NmCsHpbN5Ca4X",
+          "amount": "14813303452.790686"
+        }
+      ]
+    },
+    {
+      "votePubkey": "GREEDkpTvpKzcGvBu9qd36yk6BfjTWPShB67gLWuixMv",
+      "sum": "162499379669.714531",
+      "wallets": [
+        {
+          "adress": "HUTXit9WwTz1X3DTgccHt27LJmi43TF17Tb3ZNM2amZ1",
+          "amount": "2025338010.864281"
+        },
+        {
+          "adress": "EDUxCT29tqf8F9z7QjVwSjgU1aeqSmsGrMQUutmhJgwg",
+          "amount": "160474041658.85025"
+        }
+      ]
+    },
+    {
+      "votePubkey": "bay3rQMjiLPy6Nvi7tfNeVK26inBCxf88hKYyeKy64H",
+      "sum": "102078639255.13846",
+      "wallets": [
+        {
+          "adress": "7dzaRjcA25peJcpmCX2B3iaVqxdauDYuBhuh5tV47o1k",
+          "amount": "15499252109.90862"
+        },
+        {
+          "adress": "39kyXV7tWZCG93F5pktpAmv2nvDPwQUz5EpX7fk3AhQC",
+          "amount": "86579387145.22984"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Va1idkzkB6LEmVFmxWbWU8Ao9qehC62Tjmf68L3uYKj",
+      "sum": "1001933990480.920024808",
+      "wallets": [
+        {
+          "adress": "BBTPt29L5To8ptKX7VuNn5TL1SXC5T4MX7tB9qJeybct",
+          "amount": "766491656692.7675"
+        },
+        {
+          "adress": "DxRELCYps7oKCooGh2AVoqekDA7F7zRedLcqbjLwSUQB",
+          "amount": "191659331439.8619"
+        },
+        {
+          "adress": "CAe2nSexkWkiTDfbEoQJjpJDpob9uo4oQe3ATkqEVQ8f",
+          "amount": "1148570408.973813"
+        },
+        {
+          "adress": "86HnDFpLSBiRk4ciTxpKSQb4is5HVHFsqzhL1ScYYdLe",
+          "amount": "1214316612.477902"
+        },
+        {
+          "adress": "BTsw83MXmraWV75HcVd3722Rmojj3BQyjAE2RKVxaW1k",
+          "amount": "4267599031.4658213"
+        },
+        {
+          "adress": "xasso5u6CxFTinoy82hNQQEYJsYzVbUCbsFWgFytPru",
+          "amount": "1453771400.3718035"
+        },
+        {
+          "adress": "DRF4ZHQs99HtTKAQxoYJ4ovRi2G98xEytEUS2LvyapNE",
+          "amount": "1592966129.8601673"
+        },
+        {
+          "adress": "jwxzV5tRgz1MpnMTTooBxYAez8Ddi5u64VafnpB6kr4",
+          "amount": "0"
+        },
+        {
+          "adress": "FPhMgEsLFR5DTN3tuKx1T8DhnJT1jQBMu8tmViUUJ99v",
+          "amount": "577305140.5471585"
+        },
+        {
+          "adress": "FMNMeFAhEUTAMk9MHt4M7WHMfbHRUvAMNBqN91aUJU9P",
+          "amount": "927945374.4784776"
+        },
+        {
+          "adress": "pzSqRLdHQ6ZW4Ph3bCDUCF96B5rtyAUMurwZs9JpMre",
+          "amount": "18510811.791191608"
+        },
+        {
+          "adress": "21oKHd2K4XZ9iQ2ezntWhp7wcHefi96umbKNXbyDQ8FW",
+          "amount": "32582017438.32429"
+        }
+      ]
+    },
+    {
+      "votePubkey": "sagasJDjjAHND4hien3bbo5xXkzCT5Ss6nKjyUJ45aw",
+      "sum": "194303795299.83592582573",
+      "wallets": [
+        {
+          "adress": "2xgXcGkuvCZZpwNPeAjReNytWdh5HdZwcmphMZXGKoeQ",
+          "amount": "5449903089.828726"
+        },
+        {
+          "adress": "ABd1Usj7oEW5jT75FhwEs6LCkyuLWEhqGNVK92TC4sGT",
+          "amount": "184637989473.64432"
+        },
+        {
+          "adress": "HF8uDpLL14WxjuSGsFmkF458Myq2Rhd8AtRR6Aw6qnfk",
+          "amount": "4215864635.3129597"
+        },
+        {
+          "adress": "4FxZJ67o8PFumLtYJXXGVW2VjzciZoLACtHViwN8oSz9",
+          "amount": "38101.04992012573"
+        }
+      ]
+    },
+    {
+      "votePubkey": "STPTPuWoyKzbWawom5DBndxkeRFAjW4PzJ2EjL1qeMW",
+      "sum": "198516287025.48105",
+      "wallets": [
+        {
+          "adress": "HKe7gi36iEtv5hCBZSXaZ3C8eYvMSZ4ZNj6Vr28fq2G4",
+          "amount": "73463972145.10439"
+        },
+        {
+          "adress": "vPL7ZCwkvit3iAh6r9Sn4H1Lc3meiE1vaJ8vpyFtGwV",
+          "amount": "125052314880.37666"
+        }
+      ]
+    },
+    {
+      "votePubkey": "goJiRADNdmfnJ4iWEyft7KaYMPTVsRba2Ee1akDEBXb",
+      "sum": "144399288984.153",
+      "wallets": [
+        {
+          "adress": "Gkb8wxgqhixY3K8NNrM5KZuSY5yFftud8Jp2D5KMXLPQ",
+          "amount": "144399288984.153"
+        }
+      ]
+    },
+    {
+      "votePubkey": "EATzgj3KL3NAkaSKv8JFXPJahGueMbvTdVZj4zD9nQiV",
+      "sum": "144292982837.5797",
+      "wallets": [
+        {
+          "adress": "GMKnt86uyB8h1RXVpPbjSQ1zKD2Pa3YRFP8bn42eemns",
+          "amount": "144292982837.5797"
+        }
+      ]
+    },
+    {
+      "votePubkey": "DriFTm3wM9ugxhCA1K3wVQMSdC4Dv4LNmyZMmZiuHRpp",
+      "sum": "13200708854.393775023330497",
+      "wallets": [
+        {
+          "adress": "DecXYzt7NdkdtruomaxX3faYJkoThKS5A1iP5ujsp1cU",
+          "amount": "4.579040341330497"
+        },
+        {
+          "adress": "43S5VoYfzHPfRjmUsEXsBz2e3xirv4ZkvSmniD3chEET",
+          "amount": "11504374645.930672"
+        },
+        {
+          "adress": "7DGbqhApJp6va8GK9ZJq5q7BGJeYTvrzoaBoMXxVHH3a",
+          "amount": "1232631695.4792235"
+        },
+        {
+          "adress": "DoTDoUm2yABiYi6rVtQgy3LBxhQWifrmUAHYhsmvywwy",
+          "amount": "13044328.246989382"
+        },
+        {
+          "adress": "A7VAUDNm3jDgGBUgheXEEPr22LCxfAzFxQEix4mAihNu",
+          "amount": "406045012.52873826"
+        },
+        {
+          "adress": "FMoTUBbL5dXPHutwL4e2ybKd3LSLDS93PryyUu3pwc16",
+          "amount": "44613167.62911154"
+        }
+      ]
+    },
+    {
+      "votePubkey": "8zuMRTXThoPTTPLLvaiKiJshLLCqGMt9BdRjjCL19xBc",
+      "sum": "190243724127.91385",
+      "wallets": [
+        {
+          "adress": "BA7WMwNxBG9tevsV1PtAKumCkZp5vt18Pkzn7HzzHyF7",
+          "amount": "190243724127.91385"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Gvt8s5Bwnhg4G27VbnT1Zkfh7Jsztq6CNvZcc5anPonS",
+      "sum": "212539085504.47750582",
+      "wallets": [
+        {
+          "adress": "4nQ5VWQga2HmLr45VWQ3s9CZMAoWHmRXzGwE1oSpcMZh",
+          "amount": "13258207058.048761"
+        },
+        {
+          "adress": "DTP5dVxXyRwxPbkEH1jouz3MJZPtMdGFVQaaJkb6oxP5",
+          "amount": "199183942198.93097"
+        },
+        {
+          "adress": "68YGP7ZbgvvVXoipsnExRyin82kkxinf4HmgGT7xqrXC",
+          "amount": "96936247.49777482"
+        }
+      ]
+    },
+    {
+      "votePubkey": "LNRmxHyXAzgBkgxDmb4ZefwLAnSv3fdsjPgjmThoa1T",
+      "sum": "10310782003872.602191",
+      "wallets": [
+        {
+          "adress": "Dg8EHGqw7DxfVnidev2WbmRiLVdmFnukqGcnbGccyjaS",
+          "amount": "10302452199637.227"
+        },
+        {
+          "adress": "kpqUj83k4ieDRZjh7HMqrjkb5tkn84xy642t4Zm1WKe",
+          "amount": "8329804235.375191"
+        }
+      ]
+    },
+    {
+      "votePubkey": "5iJDEVRi1nMLwKAWhYbEokZnvBAe15rgFaHGkggVEP9z",
+      "sum": "70657254282.34091",
+      "wallets": [
+        {
+          "adress": "FDpUrYJtE1YFatCpwDxMPCB1yqjYMKUEo7quCPe44MDg",
+          "amount": "70657254282.34091"
+        }
+      ]
+    },
+    {
+      "votePubkey": "mintrNtxN3PhAB45Pt41XqyKghTTpqcoBkQTZqh96iR",
+      "sum": "156412272599.3753138",
+      "wallets": [
+        {
+          "adress": "GaWEbG7E6zxa6CodkeJ12DKd1i8atBtP1Gfd5BxheA6",
+          "amount": "155180480161.85745"
+        },
+        {
+          "adress": "A443JrZHBGqoWyzgXcXnMBQBsQMXY2vqx4KgY4xaMgv2",
+          "amount": "1231792437.5178638"
+        }
+      ]
+    },
+    {
+      "votePubkey": "tri1cHBy47fPyhCvrCf6FnR7Mz6XdSoSBah2FsZVQeT",
+      "sum": "1116132934183.4297992827",
+      "wallets": [
+        {
+          "adress": "5sUsbmHqB7m4GhgvTGffy3kbE2Z2gVNhMv9f33jkRjqN",
+          "amount": "1116131930999.2585"
+        },
+        {
+          "adress": "AojPxAF6hd4h94EzH2fzr5E4g31PvTnWTz49YXkJxw5X",
+          "amount": "1003184.1712992827"
+        }
+      ]
+    },
+    {
+      "votePubkey": "mythxna3hpzXSbaseyR12vu5Vvym1HxS92eCgXLvY7w",
+      "sum": "151402440189.459338",
+      "wallets": [
+        {
+          "adress": "Fmv8HqyQPUEp29wkybPimVkGbDverxs9BVji1rn2Y9Hr",
+          "amount": "141278661191.34933"
+        },
+        {
+          "adress": "8AThr4fWUn4jALMtCvZrMR8RXZxR6nfnjeEK7w5gebR7",
+          "amount": "10123778998.110008"
+        }
+      ]
+    },
+    {
+      "votePubkey": "AbacusTT3yhEFEKkQKjGStDhKDnvSFGpg9EqBwz8FnDF",
+      "sum": "3832071323888.0166",
+      "wallets": [
+        {
+          "adress": "7XXv9sbmne46RE33Mdbhcbtfa8ooLAmD4MDqNYSSmRYA",
+          "amount": "3282865240435.7144"
+        },
+        {
+          "adress": "7CU4c7wDV3LFPsMyZ727Qnfr3FsK1Kz92s9Cs8dB4x3b",
+          "amount": "549206083452.3022"
+        }
+      ]
+    },
+    {
+      "votePubkey": "DfpdmTsSCBPxCDwZwgBMfjjV8mF8xHkGRcXP8dJBVmrq",
+      "sum": "210782201268.43460166176",
+      "wallets": [
+        {
+          "adress": "ATYFVkwAxZNFCZ1SHsHsM5x9ipAnqdzYcNYBXKkGPzH5",
+          "amount": "214572.68563466176"
+        },
+        {
+          "adress": "DRryYoPjHrkK6piBLdiJ5Naj39Ep8Kt8CDkNGa4SJqYd",
+          "amount": "6039256651.691437"
+        },
+        {
+          "adress": "AjV9M8VqFC7ubBfyCzMGQcgAry4b7efeYGncxjTZd36F",
+          "amount": "204742730044.05753"
+        }
+      ]
+    },
+    {
+      "votePubkey": "sfo5vA1fFdPRsvqd8qdePtTnK97Qj6Jj3GupEzmNPjJ",
+      "sum": "148916820367.867786",
+      "wallets": [
+        {
+          "adress": "GuQks44vndqwshKsfCttpdZA9CTRBbNGd3iGpnSr1ewq",
+          "amount": "140547547664.36102"
+        },
+        {
+          "adress": "6hCPCKbtwSpwZUgKzEzZ3guC1fAUuqeWgpeq3KoGRRaG",
+          "amount": "8369272703.506766"
+        }
+      ]
+    },
+    {
+      "votePubkey": "EBVj3uwSKZpqEb1K267JaPxDQhULVqCy6hYeQqjsPh81",
+      "sum": "1115179994298.1204",
+      "wallets": [
+        {
+          "adress": "579azaDqpkTkrr8wpeYRjFgohJhyr3ihM6MiskHLduQf",
+          "amount": "1115179994298.1204"
+        }
+      ]
+    },
+    {
+      "votePubkey": "fuyugZxM5S4NyV3ZYoc6ebs3fmRTrZ3X27MKCFvHpVD",
+      "sum": "141456173402.5338",
+      "wallets": [
+        {
+          "adress": "EX8YuCXyjVct8Ti1m5q87URnayzdQaeTE6UFQb98Ncwz",
+          "amount": "141456173402.5338"
+        }
+      ]
+    },
+    {
+      "votePubkey": "CogentC52e7kktFfWHwsqSmr8LiS1yAtfqhHcftCPcBJ",
+      "sum": "699465010686.68482",
+      "wallets": [
+        {
+          "adress": "45uHS3n8evC4XTDeD6YeLZxMD4N16Bqq5t5xtRqZpm3K",
+          "amount": "581424962511.801"
+        },
+        {
+          "adress": "CrDuP8SWkud8Pn6B1FKTNTLmE7frLbsQ5A54f89EkdPi",
+          "amount": "118040048174.88382"
+        }
+      ]
+    },
+    {
+      "votePubkey": "GdVBPczdFaPf1GXvx8ByHeA1ZHAHwwmdQEPihH74SXm9",
+      "sum": "150056636171.43007",
+      "wallets": [
+        {
+          "adress": "EESofPdeSj2PeunFVAVS3a3j1VLNkG4pNiUyEnGcX7NW",
+          "amount": "49945691877.00731"
+        },
+        {
+          "adress": "7ABwzmK4BBtarYqGEKALPhEtfuVopMXq6u1ExHMLPBXg",
+          "amount": "49918260303.60198"
+        },
+        {
+          "adress": "HtAfAxuyRZ3gBeiMNkibNLhbP5bLKafbQnsnUbjzXqab",
+          "amount": "50192683990.82078"
+        }
+      ]
+    },
+    {
+      "votePubkey": "9ymU1ayh9mZVyDL4dUUtXKtX1wCaFNzZPGutLJgqzuC1",
+      "sum": "169020574823.6273443708",
+      "wallets": [
+        {
+          "adress": "GY9UapcTqWhcER4ZiiPGfVRtrpvJPxXDE5pFYfY2WHEv",
+          "amount": "5724835731.657655"
+        },
+        {
+          "adress": "B7a5S2qivSYv1yv2FBwJ1RCBW31rB4EHCGv77yqWfEJD",
+          "amount": "102901461448.35205"
+        },
+        {
+          "adress": "GzYiXyPsGZXpnkLDmu7TyHLwMfHqDts5QU3ZvyZZ7yTy",
+          "amount": "808902.3581771416"
+        },
+        {
+          "adress": "3W4kqkNGDxYCPY6bcKfE3Vp5jRQ1CSnd3E7Lu5Z34rMF",
+          "amount": "659890.0826294792"
+        },
+        {
+          "adress": "6LyKeCViVfTENLFGXWeLttNsBekch5D5yRuDUcBJQYZ5",
+          "amount": "60325881863.132286"
+        },
+        {
+          "adress": "4WRU8uJ6FqrAR5FzuuZZJec1geMSL39YvuNCvG4iub52",
+          "amount": "66926988.04454675"
+        }
+      ]
+    },
+    {
+      "votePubkey": "86Sw9R6ynPmXnHfwUWinXtq1QoF2KHesfQQyZG5r8sXo",
+      "sum": "862993287860.8616",
+      "wallets": [
+        {
+          "adress": "6sB3NAdExQGDYtzvrfjCuWfVdmBE6pnWj1JV48SifsCb",
+          "amount": "862993287860.8616"
+        }
+      ]
+    },
+    {
+      "votePubkey": "76DafWkJ6pGK2hoD41HjrM4xTBhfKqrDYDazv13n5ir1",
+      "sum": "170577923087.38074",
+      "wallets": [
+        {
+          "adress": "CamaoEE51ftJaC61WkUxSDfBMoWshGL33c3eQzewDsLM",
+          "amount": "170577923087.38074"
+        }
+      ]
+    },
+    {
+      "votePubkey": "3Xn3K5zeTzs4sURj1PCRaF6rvFg2hPgT49B4SiM998f7",
+      "sum": "118545796409.3278703",
+      "wallets": [
+        {
+          "adress": "35PtfdCD4FTdmZtsx3sEdUBR3viEFXkPb6Np8oLQiN14",
+          "amount": "33372363.1061603"
+        },
+        {
+          "adress": "84VNUpUyHAB9ShaF9WshrwwCfQYU8toXazPaVcZ1p7B",
+          "amount": "118512424046.22171"
+        }
+      ]
+    },
+    {
+      "votePubkey": "J1to2NAwajc8hD6E6kujdQiPn1Bbt2mGKKZLY9kSQKdB",
+      "sum": "1304698842.9028077",
+      "wallets": [
+        {
+          "adress": "63sPw3d8o9RZbKQ5mSNzLE4BgSyAF4LUh3T5rZKJYU87",
+          "amount": "1304698842.9028077"
+        }
+      ]
+    },
+    {
+      "votePubkey": "BDn3HiXMTym7ZQofWFxDb7ZGQX6GomQzJYKfytTAqd5g",
+      "sum": "1170931682949.3383",
+      "wallets": [
+        {
+          "adress": "H4eVG8VAk4pn9rBBP43jsP9JkgvEaRkEuEmTo9A6Lxzv",
+          "amount": "568353835694.5088"
+        },
+        {
+          "adress": "GpbmAPo5Hp4gTEyEhP5xhUdX4dk9ysj6WprBHHPHRPtJ",
+          "amount": "602577847254.8295"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Hmq1oALENff8DejgYhJxB4njb6pyCtuMKKxotdZicB4n",
+      "sum": "550644945347.359",
+      "wallets": [
+        {
+          "adress": "J3RjJwF47JUR7Wva3CW4jvdXTkq9qHy7M28fGiiNPTou",
+          "amount": "550644945347.359"
+        }
+      ]
+    },
+    {
+      "votePubkey": "7JZTyHRTmzHfmHH89uT9xKSKDVJ1VnNQ1FeTeM4iH3J2",
+      "sum": "148084881114.15967",
+      "wallets": [
+        {
+          "adress": "EpERWGKgUU9iEkAWsu9ELPiuPrupZCPV5wjEnd6tBufK",
+          "amount": "148084881114.15967"
+        }
+      ]
+    },
+    {
+      "votePubkey": "HMk1qny4fvMnajErxjXG5kT89JKV4cx1PKa9zhQBF9ib",
+      "sum": "2005160150899.0005",
+      "wallets": [
+        {
+          "adress": "DHdsn6xx8HFUVvjkFDQshc36dtvp6rkwWfkuG3hYUfj6",
+          "amount": "2005160150899.0005"
+        }
+      ]
+    },
+    {
+      "votePubkey": "ALPHAthakWdoUxXJP6z8cjCkwrufcARXqi34EjShtFVT",
+      "sum": "541311655479.56372",
+      "wallets": [
+        {
+          "adress": "593JmBxZk7sG8xdKWYboemoRBFPgYwcuC9TMKydHqAX3",
+          "amount": "19263297745.13916"
+        },
+        {
+          "adress": "FU439MAAY5jiJ2YVz86Z3rUejhzL43fqUqBBVCN9kMhR",
+          "amount": "522048357734.42456"
+        }
+      ]
+    },
+    {
+      "votePubkey": "bXr9MyoUAaGusQZ4gaUPmSZByHAV7RRGr1FhCW5tFh8",
+      "sum": "141160722696.8163",
+      "wallets": [
+        {
+          "adress": "B58k4JwBP9DLZm3FnswHKZxicx6gkAUuauWYgVdnTvkX",
+          "amount": "141160722696.8163"
+        }
+      ]
+    },
+    {
+      "votePubkey": "48oxpSHQkM4sdXUY9NQ8KnEtebzZbyk8uUT7JRdVQNuf",
+      "sum": "309848666865.1001713",
+      "wallets": [
+        {
+          "adress": "AntkiTe2jvFcjscRvdkxtRS8fPpbJ3Q1Dtr9rcz2qQ1b",
+          "amount": "1016889861.7903713"
+        },
+        {
+          "adress": "FxfoGh5ESA4RqD3ockhehPmfA25x8SD8JdHPZYWf48YA",
+          "amount": "308831777003.3098"
+        }
+      ]
+    },
+    {
+      "votePubkey": "adraBKLNY3DL3pg6SJRDYiMA8BsznaWpUdE42X41gbP",
+      "sum": "148727880737.9502813513326243",
+      "wallets": [
+        {
+          "adress": "CQvdwc69vw5VStMQHNCzKRUo8rS5iaxEXjCjcegpnySG",
+          "amount": "4755798.167066366"
+        },
+        {
+          "adress": "8Hq2X36RFSVtxZRbpBdF22dVsHvJ5tXfpHEDSfz6byG7",
+          "amount": "1.1447600853326243"
+        },
+        {
+          "adress": "ByedWBJUgMigzQdCC4FFZtq2wsY4Qpc2SRguq5WAt9xp",
+          "amount": "463664083.3878149"
+        },
+        {
+          "adress": "Cnu75ynT1caF455m4hxnc7zdVWqeRk6b4Cwkqrq3WX8o",
+          "amount": "148259460855.25064"
+        }
+      ]
+    },
+    {
+      "votePubkey": "GNZ1PAAS33davY4Q1BMEpZEpVBtRtGvSpcTH5wYVkkVt",
+      "sum": "30297368545.789238",
+      "wallets": [
+        {
+          "adress": "A5yha6p2qbXVH1r5Ns6ye6mTePyb5942Qead4ghEw4sJ",
+          "amount": "30297368545.789238"
+        }
+      ]
+    },
+    {
+      "votePubkey": "HAYEKSWg2EY21k38St9X5yM7QMW6SunKDefs5SqYSFty",
+      "sum": "247552886518.89343",
+      "wallets": [
+        {
+          "adress": "DA5hKdQLFQpMM95M1KwbRHnjQbvkvMEPUfaULjjrMPWw",
+          "amount": "247552886518.89343"
+        }
+      ]
+    },
+    {
+      "votePubkey": "B6nDYYLc2iwYqY3zdmavMmU9GjUL2hf79MkufviM2bXv",
+      "sum": "3115452626.6612465752896486",
+      "wallets": [
+        {
+          "adress": "B81jyGwS1oeMb34Ht9sBPxUsm5BuHqLQX2VsLs7dFxu4",
+          "amount": "1144.7600853326244"
+        },
+        {
+          "adress": "EP1v5ch4BC6TYbAdPuvFrdwvSgqVTKrYaS5yowufSEsf",
+          "amount": "2.2895201706652486"
+        },
+        {
+          "adress": "25ZbUnAsCtD7gNr1Qz4pvFFWEhB88F469BAFgW1zbi7q",
+          "amount": "1140737596.4362602"
+        },
+        {
+          "adress": "2L8WDXjWQqQnba8rcMVB9LuGjQnK3jSQKgeue7KX4Xzg",
+          "amount": "1841294686.9666967"
+        },
+        {
+          "adress": "D5dm8snbrgkh9Eo8NEPNBstCufJk2VqXy9QQpgJ8k7Pb",
+          "amount": "22895201.706652485"
+        },
+        {
+          "adress": "BHVxCyb7tnGgPjUJeckr9mKRfjiWuqxsGYxvpEAosNXE",
+          "amount": "15211609.790982727"
+        },
+        {
+          "adress": "47Wx6mnnuEGAVqEpz3Sxp1mRsQc72faBg2BxTH8fKoAS",
+          "amount": "95312384.71104896"
+        }
+      ]
+    },
+    {
+      "votePubkey": "5iZ5PQPy5Z9XDnkfoWPi6nvUgtxWnRFwZ36WaftPuaVM",
+      "sum": "1540000588197.752",
+      "wallets": [
+        {
+          "adress": "5NWWFWbJEZcFPrmhcgnKSphdpRmCyZ8bCiftABaFCCSM",
+          "amount": "1540000588197.752"
+        }
+      ]
+    },
+    {
+      "votePubkey": "bookLxG3LkSmt4htJ1x9zPw6E34RRMAi7sUn5mM3CNN",
+      "sum": "364431516409.979456989",
+      "wallets": [
+        {
+          "adress": "9Zss2nH2tA7GUcRfNk3RdwipLvig6qpVZ5RvdCsRiF3T",
+          "amount": "352293991707.5466"
+        },
+        {
+          "adress": "BZn3dtZKWi78VbSJ7QCc3rdv7p6WxnUKUxkZskQrHEYN",
+          "amount": "29064427.137758445"
+        },
+        {
+          "adress": "91wj1TJHGAoeQNn7s66SgbwU6rgBx7w343mjwA5NYrKb",
+          "amount": "4750918670.703519"
+        },
+        {
+          "adress": "LnLSkm99zehqeHFwmpAKEcEdhgxPNMtpF3UVNSGF8My",
+          "amount": "449873165.50837326"
+        },
+        {
+          "adress": "EHswpo5wffxXsCQZmzieANReAk54BiHiqAQNNMkokx3Z",
+          "amount": "4892657.669548138"
+        },
+        {
+          "adress": "DverMeQaN19jPw4vESaSXY6KTRPV6obMbQNo9Q834EPb",
+          "amount": "57238004.266631216"
+        },
+        {
+          "adress": "EM9zbf5NZMrD5uFcHrgReRJfXqGgXoq5ztKeQDv45ftA",
+          "amount": "28035294.68960493"
+        },
+        {
+          "adress": "GW9WAEXk2mkUTZNvG9xL2gJTH5gcT39oXKevd6Txe5vt",
+          "amount": "6817502482.457422"
+        }
+      ]
+    },
+    {
+      "votePubkey": "LimeNKYH66uR9BwnrPtxPbpqmkambxHVcutGoSaWPiq",
+      "sum": "128654097242.55054",
+      "wallets": [
+        {
+          "adress": "4ZwtUSoSNfG148WrrgUWqMc6TuLYDHMR6HXBFVcE9rr7",
+          "amount": "128654097242.55054"
+        }
+      ]
+    },
+    {
+      "votePubkey": "pine9rHVDS1pjwdhYkx3vRyaAyRd5KPDKXZEXAqvxcX",
+      "sum": "70541412419.33847",
+      "wallets": [
+        {
+          "adress": "9w31QPPhzK6J4jdhJ4GqW5znAyrqipypk21XTuYEFxEQ",
+          "amount": "25660573890.49842"
+        },
+        {
+          "adress": "Ds2FF5bR2EBS99PwzWmmzxLQ9pKYiRRYWYCkcurUhQ5k",
+          "amount": "44880838528.84005"
+        }
+      ]
+    },
+    {
+      "votePubkey": "prt1s9dMM15LdsUX9HugajzqPB5WVN8a2mw3frAiCfj",
+      "sum": "152925898088.45747",
+      "wallets": [
+        {
+          "adress": "GA5VQeRzpaKHPsvqTfJh3ziMnvbMSfg2Ltz1sRTPKHur",
+          "amount": "51866005971.04322"
+        },
+        {
+          "adress": "FXrPiRvwcyLWzWJpg3nJjbkLSNqmSF4mJjtk5SqAbWcB",
+          "amount": "101059892117.41425"
+        }
+      ]
+    },
+    {
+      "votePubkey": "2ZiMfQaT59j86HVWCvspuMtBotnVBeTc3BKk3kKpwgKP",
+      "sum": "168446938997.4636",
+      "wallets": [
+        {
+          "adress": "BsS2BWy1qeFLFsbahdzH3A5Sfo7DmMQqiYMbYdi4s5yt",
+          "amount": "168446938997.4636"
+        }
+      ]
+    },
+    {
+      "votePubkey": "xLabsqDpN9WHXEXSJXk1yhqh5H8BgcqiBP1CR6Mkjcb",
+      "sum": "958267875470.67489093",
+      "wallets": [
+        {
+          "adress": "Fu3fFPJotpmBqfq1YE59muoJZHgCL7xuGAdWoThAvtwy",
+          "amount": "100446569.587201"
+        },
+        {
+          "adress": "5ZYRpAtD4nFGqUUDvHSZSDDgDZSaHk5F42PQHWbfqffN",
+          "amount": "30416132054.033855"
+        },
+        {
+          "adress": "5rT37QnqDd9F4asA7T9NmKetomzDSCp99PiRAufcQQEs",
+          "amount": "20224049737.710587"
+        },
+        {
+          "adress": "2jBpB7yHT2rJg9rSb4X31RYgeeszb7fSXp6mtJJjtorc",
+          "amount": "63602767.31267293"
+        },
+        {
+          "adress": "9PcAL1nNy2i2Z7NskTYnzfSRnLNn8rU4u1ZfPqiZCJDG",
+          "amount": "7535134745.735075"
+        },
+        {
+          "adress": "AdAVF5KmmGmpNQhjY7FL96wZLEynD6Mx3VXJTZf2yFps",
+          "amount": "899928509596.2955"
+        }
+      ]
+    },
+    {
+      "votePubkey": "4RcSXeQbgG1v27M27PNNLhy9PGB6uaJACXUZ3kBVc4kF",
+      "sum": "209600819763.06638",
+      "wallets": [
+        {
+          "adress": "GdUmoUf5VP7yCYbdSjKiWLEo2eW8KLmvcVXK5XCoJeLS",
+          "amount": "78615859401.18584"
+        },
+        {
+          "adress": "3poFmCSNCvv4WH4BEPFpBPEVa5TTQwGE4TpHwb152U1J",
+          "amount": "130984960361.88054"
+        }
+      ]
+    },
+    {
+      "votePubkey": "soLStAckuvkHtNzHF1cwmeSRG1FzVxKxwsdWZ1yrHrz",
+      "sum": "147510644100.0657",
+      "wallets": [
+        {
+          "adress": "B4HDTaCuRuiVMqc6mZF7P5wViCPwXBUtPxmndNqjF5rV",
+          "amount": "147510644100.0657"
+        }
+      ]
+    },
+    {
+      "votePubkey": "StakeyJXE1yJbEApBVswHN4JdZXcj7V5MHbzffa4dFp",
+      "sum": "366658992288.56742",
+      "wallets": [
+        {
+          "adress": "8Do9mFo2mf8JCwKB735GnFTPprNdFyGF4pRPT1XkspKh",
+          "amount": "318070115446.4204"
+        },
+        {
+          "adress": "FoTmcD54V3cz3riRC4jnRauYqd5qYPd5neErxSnEPmPp",
+          "amount": "48588876842.14702"
+        }
+      ]
+    },
+    {
+      "votePubkey": "5daP6pZoPSak6UEKuRg2HHjvTPpqqwB113oNamGNKuuZ",
+      "sum": "50259492169433.8809399",
+      "wallets": [
+        {
+          "adress": "89v4gUVSSuNv8SyxFCNkJ2cPVx6bTTrESYHBg7SznY8u",
+          "amount": "1260857652.2505608"
+        },
+        {
+          "adress": "ASNsejndZQmh3p5taTGEQajzD9Bed9Skx68ETQC4mucC",
+          "amount": "28803027066675.617"
+        },
+        {
+          "adress": "3Z1jjvAPFXCAm1KoBQM6MaAUm7MhdVUueMxWFWgE1UML",
+          "amount": "315157737406.8836"
+        },
+        {
+          "adress": "5xM3p6sfLopjgDpiXonYfNKTBHj6AN8my4bkKUXBLLuq",
+          "amount": "738238399840.8921"
+        },
+        {
+          "adress": "BWw2jAn6fs91T57YkhiS2P5271LZCQBhEKJSeE2Dv58m",
+          "amount": "4740054600038.107"
+        },
+        {
+          "adress": "Ev5i6W98K6HU4HSLySFLpoZ2QNswMVzDAfmrjyv3BLY",
+          "amount": "2769863452870.695"
+        },
+        {
+          "adress": "C1U9ARgYE72KK8rYaXcGcJYU1u8ukFZ2tPWR9EwXunNM",
+          "amount": "967263936.2768791"
+        },
+        {
+          "adress": "FL7TQYYSpARvYnjYmGzw3r2SBcSZsZopLX7goL1URNft",
+          "amount": "1493044178119.0654"
+        },
+        {
+          "adress": "EKPBjftgaCPswNRK8D2Y31hKFCP43UfHQjoET86hRzgQ",
+          "amount": "763975238859.4315"
+        },
+        {
+          "adress": "FYNGqtroT4mGngrbrgrnmvfh6aJbs2ybLwy8CfAWhUwh",
+          "amount": "1491180513281.4739"
+        },
+        {
+          "adress": "GNFGZdCs9TSsBU37MdzppSw1NrAJoZEbznhWDPVcwoUa",
+          "amount": "9142722860753.188"
+        }
+      ]
+    },
+    {
+      "votePubkey": "axyQeKp44XqUnvC1jVHoeuAJ3j8wVnGeWtddeAcNYcF",
+      "sum": "3553803525.484488",
+      "wallets": [
+        {
+          "adress": "9kJ2SdyeUVryMeeCmPSC2RkPyUPEk9oKPBDm8H51quCA",
+          "amount": "3553803525.484488"
+        }
+      ]
+    },
+    {
+      "votePubkey": "2QE9X9X4tdDUTYic1DgBBJjU7cWUNPbKYGerCb9KqDQN",
+      "sum": "26431245690.90222",
+      "wallets": [
+        {
+          "adress": "3AthL3CDLUHqLLReCS3gaHEXAiyLpuTQuQXx1uMrT5g9",
+          "amount": "26431245690.90222"
+        }
+      ]
+    },
+    {
+      "votePubkey": "3QPGLackJy5LKctYYoPGmA4P8ncyE197jdxr1zP2ho8K",
+      "sum": "180612736012.582678",
+      "wallets": [
+        {
+          "adress": "HNzoRkVZhiYrZPoV9fUSGBx4wGm1eBm2kHweSUMomYVk",
+          "amount": "180529562983.20456"
+        },
+        {
+          "adress": "6MwRxrg6JBkArubUVHco8rCetRJA5xhoPQz3UjMf8dP4",
+          "amount": "83173029.378118"
+        }
+      ]
+    },
+    {
+      "votePubkey": "STeaKrJdxdPMww27XJsjRBfrzqfjFT1BxotgQtFyDgx",
+      "sum": "100663651813.60521",
+      "wallets": [
+        {
+          "adress": "Gjie8HVceJdgZJLZoxCVZc5tNYzgWV2x6yjbyMyGMqQ9",
+          "amount": "100663651813.60521"
+        }
+      ]
+    },
+    {
+      "votePubkey": "novaoLcuVHSudkW3Cphuhiv82vspN5qzinGCtEbwQxz",
+      "sum": "154600998224.52045",
+      "wallets": [
+        {
+          "adress": "BaYtWBne5fziwC8UASU5vmHXwjyKuZ3g49bf5k8WRpMr",
+          "amount": "154600998224.52045"
+        }
+      ]
+    },
+    {
+      "votePubkey": "EfnywDKqArxK6N6FS9ctsuzNdxfx3pzfXEQE5EevQ1SV",
+      "sum": "10145178567180.92991",
+      "wallets": [
+        {
+          "adress": "6XZ8yZZpdBYipuQogDivSCwJD5YHDGovRHuzhYM1ZjAM",
+          "amount": "4782409350322.421"
+        },
+        {
+          "adress": "SUPR82bGgVN27hwY9MA5skbQ7273Lvuxfx8Wh7pG2Nt",
+          "amount": "2809103902935.43"
+        },
+        {
+          "adress": "3Fv9YppPQ8Z1p3j3vDT8TGhVqmdNnREmQsW94Wvhg8nh",
+          "amount": "1591158818998.4585"
+        },
+        {
+          "adress": "BYyyoDn3LB6dNcc7MZmiyqoPmptccVjdW6jHD5j7M91W",
+          "amount": "20783382336.092957"
+        },
+        {
+          "adress": "9qujPqxpfF41in18WSPquH18RuhEwnMB3jCpyAciqTFL",
+          "amount": "1424820033.174353"
+        },
+        {
+          "adress": "6pP1s6eGBpY7QKUnDdBtwi8M8CPtR61vUweW1ekQ8mEa",
+          "amount": "940298292555.3531"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Hx4UJCvf8amGeuW9fPFfTckRoznDHxPSYiU9HuUSZKLT",
+      "sum": "15346419357.842573",
+      "wallets": [
+        {
+          "adress": "wEwC4q5ociY1L9UtiKZ9DC8csD3PjsnVHj2ruLCAtfF",
+          "amount": "15346419357.842573"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Fhks5gukimP6vxKYbRY4V1aw888EgHhpdDSscD9V6bub",
+      "sum": "191958631375.03687",
+      "wallets": [
+        {
+          "adress": "BrnMNcFz6EzjZsQM8xNbrTsJE88fyXU2X6Crar9QPpsK",
+          "amount": "191958631375.03687"
+        }
+      ]
+    },
+    {
+      "votePubkey": "gVot34jauJpexBL2YUSPBKsmZ4V2ffmDcRk4yfSEnx8",
+      "sum": "111660694132.415225",
+      "wallets": [
+        {
+          "adress": "UBF8B3JmhnwaL9Tbbacz74HM5AYEwZixMHU1kTuUuNt",
+          "amount": "10183753510.149265"
+        },
+        {
+          "adress": "3ZWMZMiPzp6sVmPmfDrdnFpwfaw2U8kC5QvjnibDUHd8",
+          "amount": "101476940622.26596"
+        }
+      ]
+    },
+    {
+      "votePubkey": "ELE2xaC6i6pmeu7bfrYjBv4whBeTAbgwcg5hf2ythiBs",
+      "sum": "138822472808.12366",
+      "wallets": [
+        {
+          "adress": "3n4jm2LtJcNQoFEizNDxPyyyTLFSwYWtkBNFTfD84mxt",
+          "amount": "138822472808.12366"
+        }
+      ]
+    },
+    {
+      "votePubkey": "9f7dqiYNBZbgPesAnLeWnKCtxYHSfMg5x1EMZCJwVwG7",
+      "sum": "5885112665.094167",
+      "wallets": [
+        {
+          "adress": "FwnWx7x99rGwLmipzz8ii15NqcHkKRo2oS1Y7j6LivgZ",
+          "amount": "5885112665.094167"
+        }
+      ]
+    },
+    {
+      "votePubkey": "MFLKX9vSfWXa4ZcVVpp4GF64ZbNUiX9EjSqtqNMdFXB",
+      "sum": "6942102923.188899",
+      "wallets": [
+        {
+          "adress": "5nFLSDXsFGcRun4ywpEhQkfQkcGMLb1xVGFr2dtPHzEp",
+          "amount": "6942102923.188899"
+        }
+      ]
+    },
+    {
+      "votePubkey": "sShosKd6uA5c1ZpVMxdsE6do13TLRWSMYsXbSMmNC77",
+      "sum": "2992055551075.83577",
+      "wallets": [
+        {
+          "adress": "E9noGBMVoV6Cygaa6eNLsXf4hwUnEqMn6k985VqLtLmJ",
+          "amount": "466821460480.65857"
+        },
+        {
+          "adress": "5UZECNRtvU2JbGBYn7ReTUEknHB6d4W62YN4Mi4Ywwut",
+          "amount": "2525234090595.1772"
+        }
+      ]
+    },
+    {
+      "votePubkey": "nebu1WnZBrFZz5X7sfPWuEqyb8LBSsrXpxaesnK9CRE",
+      "sum": "179209527821.49182",
+      "wallets": [
+        {
+          "adress": "AvzxUsN3KG9CWQxhXrY3HowezCLdbm7HbgzwLheSCYkd",
+          "amount": "179209527821.49182"
+        }
+      ]
+    },
+    {
+      "votePubkey": "kyvvvkDpDCtSxQMPhzRhmv14DgUBVEGGzn8Dnb8ircP",
+      "sum": "135883166131.78792",
+      "wallets": [
+        {
+          "adress": "HW5RSH36fBYg4tML68mdtEhFWpQEGPNHzdmHPk1BPuuk",
+          "amount": "135883166131.78792"
+        }
+      ]
+    },
+    {
+      "votePubkey": "6q1VNp8Vy2Go12vb8CwbjUqqj2SXr2JYftJRWs71sW23",
+      "sum": "1761096174586.12807973",
+      "wallets": [
+        {
+          "adress": "HFppr7mxYuNCCPvLAuvSuoThoxdenzJa9gGPdebZnyXt",
+          "amount": "263438579.74277973"
+        },
+        {
+          "adress": "AqYhUPiHQ45SAuVDRNBC41egAQd1T6r5vFdiE9X5vRg4",
+          "amount": "1262025471123.8164"
+        },
+        {
+          "adress": "6Lj7eUvRomwkDtWpGmwhrySpKnXz6xYYN7EZKy3Tq3M3",
+          "amount": "498807264882.5689"
+        }
+      ]
+    },
+    {
+      "votePubkey": "FgiteGaHbA22Wt4Quzv3muscQtvX7gzVwvUHbFnb3rTJ",
+      "sum": "260004521130.65054",
+      "wallets": [
+        {
+          "adress": "5CU5NsU57PpUCFkjDmiH8p2H2AeGRyGdA58EeuUxxNHM",
+          "amount": "260004521130.65054"
+        }
+      ]
+    },
+    {
+      "votePubkey": "8D8XL6ovqx15RKwC1XtFyTz6H8JYF2fUsxTnsY4b123P",
+      "sum": "106041858874.63765",
+      "wallets": [
+        {
+          "adress": "FJL531iCPj26NGBeL3FCgxF8Y1N6edpacpf6EZKDGiR2",
+          "amount": "106041858874.63765"
+        }
+      ]
+    },
+    {
+      "votePubkey": "4m1PbxzwLdUnEwog3T9UKxgjktgriHgE1CfAhMqDw7Xx",
+      "sum": "136369375757.92764",
+      "wallets": [
+        {
+          "adress": "2pR4ejyJR7c6FfoYUnXxt7NW5BeE42gCRraS6xom38aq",
+          "amount": "136369375757.92764"
+        }
+      ]
+    },
+    {
+      "votePubkey": "F3scMRjzSvXUa7JoK2uwBjNsYGi5sM84sDzE7FfGBo6o",
+      "sum": "147382743928.45486",
+      "wallets": [
+        {
+          "adress": "1tQrhYs3b77Qvu8nzVtA5afHnJtYK9GN3p7g6QeBb6u",
+          "amount": "147382743928.45486"
+        }
+      ]
+    },
+    {
+      "votePubkey": "5afRnmkFn1pRU9oussqwk1RRBVyoDgUkL16Jz4qNf574",
+      "sum": "50678970486.45547",
+      "wallets": [
+        {
+          "adress": "9iwjVXRHbAbbDV7wAg8VJvZzLAJCHWdnHMdnzK5aFtMc",
+          "amount": "50678970486.45547"
+        }
+      ]
+    },
+    {
+      "votePubkey": "MicobSZgB9CZNvmnFSYbEtMjy7CUui5o6P3XoGTwZC5",
+      "sum": "406532885148.9987",
+      "wallets": [
+        {
+          "adress": "m9Zizhr1va4qGEC2ocsXcKmN1MkX73Mk2zYVfbVgdGr",
+          "amount": "406532885148.9987"
+        }
+      ]
+    },
+    {
+      "votePubkey": "3ZUQekqiZoybB57y49eqtvSaoonqDwuNbeqEGwN88JkQ",
+      "sum": "234296647960.52362",
+      "wallets": [
+        {
+          "adress": "A7hQZ1zXBShf1gMgZuhxjQvZTiYP2pa1SpJuBe4MBCtD",
+          "amount": "234296647960.52362"
+        }
+      ]
+    },
+    {
+      "votePubkey": "3Z1N2Fkfha4ThNiRwN8RnU6U8dkFJ92DH2TFyLWJf8cj",
+      "sum": "175862571198.4486175",
+      "wallets": [
+        {
+          "adress": "3yCDZczjvGTm7MJgSZyVgVM6Z9YFZvSKpTBUTyrEWEDv",
+          "amount": "1125371454.3365984"
+        },
+        {
+          "adress": "3zr1GfKvd4AULbBZjc3bvEqEUBfsog7hjuhxqiQ2wvyA",
+          "amount": "173712531066.97256"
+        },
+        {
+          "adress": "46MvWCGvA4FThnZV8U8pfuiCBFs2K7bs8kjbHJMXHfec",
+          "amount": "1024668677.1394591"
+        }
+      ]
+    },
+    {
+      "votePubkey": "CP6mfD4Qc5AYrboXBAQeHMYj5x1UnYksDXRjG7DMkHH7",
+      "sum": "1223118293.8584363",
+      "wallets": [
+        {
+          "adress": "AJAqVPPzWGYd4N3Vijmo8j6sriU7F2cG8mnqNZXjvHWr",
+          "amount": "1223118293.8584363"
+        }
+      ]
+    },
+    {
+      "votePubkey": "1oH9rfyrbKoP7ucJ1Zr2HLHmDU8N6G1G6dEuruFsSqy",
+      "sum": "180399008417.4620171",
+      "wallets": [
+        {
+          "adress": "D8sebSkJfbrC6tpHd6R2bbi2d1oNga7ymbbSbPAf4t1T",
+          "amount": "104230924.3458541"
+        },
+        {
+          "adress": "HxMGfskHnJvkMpa3Bai9pyWbQGGYBGpk4E3nwApd3QX1",
+          "amount": "6098615538.086283"
+        },
+        {
+          "adress": "H1oK2VxqfqxYnQBmcbAqMxPuGna4F3DQ6CNrxoFa6Qth",
+          "amount": "174196161955.02988"
+        }
+      ]
+    },
+    {
+      "votePubkey": "DG6fVEB2Qy1jntvHVPui3R12CMqcwNNnjYPYdsbQ9ACP",
+      "sum": "251678877425.06661",
+      "wallets": [
+        {
+          "adress": "AkrP4yFFwi9vRFjVg1WQF7fvEfMmurNR2RvbxMPVxk2t",
+          "amount": "30478108634.69683"
+        },
+        {
+          "adress": "5kAAvNhbo3Xu5J3BUyG6UGvijVCcHNwKvZf4L3Dynyku",
+          "amount": "221200768790.36978"
+        }
+      ]
+    },
+    {
+      "votePubkey": "fdvtuDvWJZ89Z7TmeLjCwxgoLcmoEWNxruV48DvJtfm",
+      "sum": "330575479115.2116",
+      "wallets": [
+        {
+          "adress": "9jP39pw6nyiCAuWUmtPvKpNgjwmS5G95H7mHdz4a8xZc",
+          "amount": "330575479115.2116"
+        }
+      ]
+    },
+    {
+      "votePubkey": "CiTYUYPAPHdcri5yEfsmqVcs54J6j8X1QaiFLgYqMVe",
+      "sum": "172087169499.67072",
+      "wallets": [
+        {
+          "adress": "FyPjPeY25NyoGyUKJF2U7hdRWqhA2zYjVvMu4HazNthj",
+          "amount": "172087169499.67072"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Lua298Woc4rgcswL64yfWAL4EW44FgBZeLsKforf6tJ",
+      "sum": "282940712730.5099",
+      "wallets": [
+        {
+          "adress": "LUa1tmkAeC4zoWh4veLdWbRD4McowhYLbjgJ1Z2EXZp",
+          "amount": "282940712730.5099"
+        }
+      ]
+    },
+    {
+      "votePubkey": "R2D2vs3bJwpNF2ejaB6UW1JdCZ5VstuAmuwxDuUUWNj",
+      "sum": "30173505979.631683",
+      "wallets": [
+        {
+          "adress": "bot32VLbcjGTLCgi8aZ7Q7V8EgoNwpW4yzoqfJWZJyg",
+          "amount": "30173505979.631683"
+        }
+      ]
+    },
+    {
+      "votePubkey": "steakxfubt37xYdvuXz7BV5Uhhhk1FyJx9zGHfDcTVr",
+      "sum": "1021713884248.2831",
+      "wallets": [
+        {
+          "adress": "244pbYAnCETRe2koFVUFiGCjXteBqzVb7ryPNcnMsgGZ",
+          "amount": "429803431647.5658"
+        },
+        {
+          "adress": "7y6AbjqsJPm2isDw1Z6iLXf5v2Xq7pHbZDWbecfxnEWR",
+          "amount": "591910452600.7173"
+        }
+      ]
+    },
+    {
+      "votePubkey": "o27rnqfNHPwHsRp2xPXXwWzn2q2dGxn6UD4Rt5KMU5h",
+      "sum": "190349711674.018288022",
+      "wallets": [
+        {
+          "adress": "BzdMw7iE8zDifj1NTbkvrELiQoQvpFjmmyGLuR7uJ1pH",
+          "amount": "26855731.608158022"
+        },
+        {
+          "adress": "K5EvtDJsgwHiKdV3Rkue6NQHbvGQTCegD9N5nNgFXsh",
+          "amount": "190322855942.41013"
+        }
+      ]
+    },
+    {
+      "votePubkey": "NeodymeDFipD7eA1ShrLJAZTBdHWcFsDB9YkoHshZNk",
+      "sum": "24841225902.19356",
+      "wallets": [
+        {
+          "adress": "9nwKnaeWQAUw3TpYicGfUZWB39d3Nuvocij5ajfwaYYJ",
+          "amount": "24841225902.19356"
+        }
+      ]
+    },
+    {
+      "votePubkey": "H2tJNyMHnRF6ahCQLQ1sSycM4FGchymuzyYzUqKEuydk",
+      "sum": "87071460553.05946",
+      "wallets": [
+        {
+          "adress": "57X3WpEA2aEEyZ4PYRACNRqof3CDF6NDmBDQWYWX756m",
+          "amount": "87071460553.05946"
+        }
+      ]
+    },
+    {
+      "votePubkey": "SKRuTecmFDZHjs2DxRTJNEK7m7hunKGTWJiaZ3tMVVA",
+      "sum": "3001760643.7047467",
+      "wallets": [
+        {
+          "adress": "HtHCx3R8UyB2wtaQ5xUnNBWmAXCraEu1x1QdBwkuSHS3",
+          "amount": "3001760643.7047467"
+        }
+      ]
+    },
+    {
+      "votePubkey": "57GUg9QH2LFMV11oaduuoqVJ5qHDEp7EGJ2xgkGiqAum",
+      "sum": "140402556118.21347",
+      "wallets": [
+        {
+          "adress": "3dEJdyLqrXp4xcnSYP4SAf2LsdFfAQZd9AfpvgV18LjP",
+          "amount": "140402556118.21347"
+        }
+      ]
+    },
+    {
+      "votePubkey": "H4QVPxS7napq3NEYxqLhxbKi9nJ8s56dD2EQZGsyZ3sb",
+      "sum": "151928593145.09592",
+      "wallets": [
+        {
+          "adress": "ATvE6VufeJj7LnEWZ8sVN5Wfftg3QuA3mx2RPRYN2pob",
+          "amount": "151928593145.09592"
+        }
+      ]
+    },
+    {
+      "votePubkey": "edu1fZt5i82cFm6ujUoyXLMdujWxZyWYC8fkydWHRNT",
+      "sum": "437335573568.02136",
+      "wallets": [
+        {
+          "adress": "8nwAEapYkA4jv7xPvfXc4Le426o6tEVqBaAGY5rMLjW2",
+          "amount": "437335573568.02136"
+        }
+      ]
+    },
+    {
+      "votePubkey": "gridZ5cMHjWGktAQt6o36NtF7XSv19nJBrW83zmo7BM",
+      "sum": "3117799292.1106115479",
+      "wallets": [
+        {
+          "adress": "JDigzj7awgDbZewd1PYeCUyxGmsvrxPrwnk1uWJ7cJw",
+          "amount": "2308579993.3667245"
+        },
+        {
+          "adress": "FFYpvY3NxC6WWcqjj9oMZZw5xShR3qnfT6wfYJUV3GJX",
+          "amount": "107309.8103990802"
+        },
+        {
+          "adress": "5V2h79x27We9qVjEGjbbFzapjqsWafQEcXk7fx6pEgWR",
+          "amount": "807998638.7753767"
+        },
+        {
+          "adress": "BeurG5Vu2RhsH3KEKy74fPqs38RCiMdm473zJDq6hzhR",
+          "amount": "1113350.1581112677"
+        }
+      ]
+    },
+    {
+      "votePubkey": "stsaYQJUhKZDHSqndGtgo6jgbhVaHBSHhtfVWxCwrhD",
+      "sum": "35976723522.47859",
+      "wallets": [
+        {
+          "adress": "FxiQYrruRvcPTY8QqCQsGYziZXkrYN73niNo9hQHPbqn",
+          "amount": "35976723522.47859"
+        }
+      ]
+    },
+    {
+      "votePubkey": "6JfBwvcz5QUKQJ37BMKTLrf968DDJBtwoZLw19aHwFtQ",
+      "sum": "143502375394.020707",
+      "wallets": [
+        {
+          "adress": "CBs5idktcByQNJY3uDorx2mFyPPs7YhYyvs5NyjSj8F8",
+          "amount": "18555071328.693237"
+        },
+        {
+          "adress": "hYhY4yzgvd7Jrb1N8SubYneYSFE1KAo9G7fpvST7ykm",
+          "amount": "39718315965.04282"
+        },
+        {
+          "adress": "FfihYCMBM6Gv39Nvs15hmigtBVbXVEFX8WcaZWxPRoi3",
+          "amount": "85228988100.28465"
+        }
+      ]
+    },
+    {
+      "votePubkey": "vvvvXsU6iG2enDVvs4KeVqS4YrZczTujSv5p3dSeNHx",
+      "sum": "279396156666.28596064381",
+      "wallets": [
+        {
+          "adress": "8KFHsMKbcmLd4zoUSgGtyxCsqWvF9Ue1ixEWiA33erET",
+          "amount": "1598842167.3515384"
+        },
+        {
+          "adress": "BWENejsfrBsYM44ELcFywxpn3LCTzKVDws7YoFe6StuN",
+          "amount": "82112.49616082381"
+        },
+        {
+          "adress": "nfpBqahe2ZYMyPh1QK5m4kFTuPBJBM8S1FBZxX5nNFp",
+          "amount": "277795632730.7483"
+        },
+        {
+          "adress": "4KBkNESxoC8j6YpMTC6mtWbJ58NqhFTThj4iXSttk6Xv",
+          "amount": "1599655.68996142"
+        }
+      ]
+    },
+    {
+      "votePubkey": "FACqsS19VScz8oo2YhdMg35EsAy6xsCZ9Y58eJXGv8QJ",
+      "sum": "403852130940.47437",
+      "wallets": [
+        {
+          "adress": "CFp5kK1fDwuAdn1vzyK4RqKsfJ9SUd97w6zNVnLJTQHp",
+          "amount": "403852130940.47437"
+        }
+      ]
+    },
+    {
+      "votePubkey": "QWmexgr4teHa2ZF85tyf2hvEwBvJ6ioAEr1h8DRjoie",
+      "sum": "144137713467.10632",
+      "wallets": [
+        {
+          "adress": "Ap17B97R7fqNkhvsD7HtKXCwpjmX5oikJvdaBZSd91EM",
+          "amount": "144137713467.10632"
+        }
+      ]
+    },
+    {
+      "votePubkey": "5szskKdH8nfnUuHTvn9hnhH3Xuvo7RVmcDDvD5WD7yNh",
+      "sum": "218416613104.867",
+      "wallets": [
+        {
+          "adress": "5ULVv4QsVwBjqBXGKc68sUn9CUyR76vhbjNAQk5gbr3Q",
+          "amount": "218416613104.867"
+        }
+      ]
+    },
+    {
+      "votePubkey": "RSSAw6n7Tvqi5iJc2xvHMfk1bhx47GVqj2pj1bq5NUq",
+      "sum": "24913886304.35997",
+      "wallets": [
+        {
+          "adress": "CPM1TrR1L3iN9snDGTV7ChYuw82Q2wp5wEJvrRU3Jeem",
+          "amount": "24913886304.35997"
+        }
+      ]
+    },
+    {
+      "votePubkey": "PUFFiNkUHF2DMfbKeUcYTSQckDDtkswfxZCDv5WQqwp",
+      "sum": "1079330561876.5044",
+      "wallets": [
+        {
+          "adress": "pfSvZ9oNRN5RxdYvHraSz1SmJhk6x9tL82sJBrCQo7M",
+          "amount": "1079330561876.5044"
+        }
+      ]
+    },
+    {
+      "votePubkey": "odc2aCE7yWTcV8ApP1cHmVqQZTkLNduqaYyKE1XhpE3",
+      "sum": "161878523769.87256",
+      "wallets": [
+        {
+          "adress": "AArT1F9STj72yXc3cwrhBDePpDs4hfzt94Kztp8ombD8",
+          "amount": "161878523769.87256"
+        }
+      ]
+    },
+    {
+      "votePubkey": "Defi89YpAhk3Gst1Jpsi3Nhj7yCu5HropESh37SQ2v9g",
+      "sum": "25629016861.6061",
+      "wallets": [
+        {
+          "adress": "PYzzynKdpVLgdSikgKxweTUYPwRVtDzNLvWFxQsGkYP",
+          "amount": "25629016861.6061"
+        }
+      ]
+    },
+    {
+      "votePubkey": "4qvFxnUXYjBdcviCwVV7gKcGJMCENEBfS82hSLJUhyvu",
+      "sum": "244833085363.5066",
+      "wallets": [
+        {
+          "adress": "BDCgWSfUVTKL7ALVhDf8DeonSWwsjZ9m1Tfqw9a2oBJs",
+          "amount": "244833085363.5066"
+        }
+      ]
+    },
+    {
+      "votePubkey": "EdkhvJYa3kWQkFJAPzmGsQyi1D2JA5a7vwWw4hDuwbt",
+      "sum": "5020986912.120847",
+      "wallets": [
+        {
+          "adress": "7yy8r2UvWy4tX3ySvsWP492mCZqVLGQwn2xyfNKwnhjy",
+          "amount": "5020986912.120847"
+        }
+      ]
+    },
+    {
+      "votePubkey": "phz34EcgWRCT9otPzRS2JtSzVHxQJk4SovqJvV1TQk8",
+      "sum": "166278913442.98227",
+      "wallets": [
+        {
+          "adress": "6Tw4U8GmuJTS7GV4CZT7YR5KVULtqwRFBmJw1J8uuUjy",
+          "amount": "166278913442.98227"
+        }
+      ]
+    },
+    {
+      "votePubkey": "34mSDco9FM8599y4QF1GJvyWUrPixeT3zRNZAvzNXF6x",
+      "sum": "118715490602.85416",
+      "wallets": [
+        {
+          "adress": "8yTQDY6YX1fvJN6JBsVAFwbMHaHQBwTNbLAgKzA798xE",
+          "amount": "118715490602.85416"
+        }
+      ]
+    },
+    {
+      "votePubkey": "4KfAqBj3Jvi9GGngFK1MbZkjHTcSFyvhFnVwc2QrNiEh",
+      "sum": "203629502008.95215",
+      "wallets": [
+        {
+          "adress": "DJytiu2iaZF2SEcj95v8whiiVDvYZiyaV4vKB4qiq2WT",
+          "amount": "203629502008.95215"
+        }
+      ]
+    },
+    {
+      "votePubkey": "DTELA4aHtJB8zcMJvKgcUjAYfkGcKdRUN77cpFoMVgxz",
+      "sum": "10335121240.614227",
+      "wallets": [
+        {
+          "adress": "9esi8Y6UJyjTqB7vxKRcdf1XEuunwfXgecWAHz2rcnwZ",
+          "amount": "10335121240.614227"
+        }
+      ]
+    },
+    {
+      "votePubkey": "AY271jdvcyo5VzBiWsMGLEjpZFFrarq8FDydJHLmYgCG",
+      "sum": "458480069109.6232",
+      "wallets": [
+        {
+          "adress": "FuKWJE7MeCH7HaYmcma2Y6TCMA42iUVhymCpgRvtNF5",
+          "amount": "458480069109.6232"
+        }
+      ]
+    },
+    {
+      "votePubkey": "mnvkHm47ZmRKoSWuQZAfXLRiDPiKCq8PWkMWrp1Wwqe",
+      "sum": "251246181709.75052",
+      "wallets": [
+        {
+          "adress": "5sJZAApR8bPmFsWZq8TosuEXvQH16rX3TAirK8QppDZ1",
+          "amount": "251246181709.75052"
+        }
+      ]
+    },
+    {
+      "votePubkey": "H6rbcwuQtadcv9JvxLM7GEskF6xFXnrNT3iPkk4RfyBE",
+      "sum": "144811228720.092",
+      "wallets": [
+        {
+          "adress": "7sgmHga9xEUrzHKq4FUEUgaHWLxnjQYgJFHz4UQjcc4F",
+          "amount": "144811228720.092"
+        }
+      ]
+    },
+    {
+      "votePubkey": "jag77EXci8uf5uGmKE5izaYvxBCS5H9U2rxWYh8BUUf",
+      "sum": "181259980222.46332",
+      "wallets": [
+        {
+          "adress": "51foYSMPVgP3WXDyqFmxv66iwhsDHxFT7yfE8hid3S5w",
+          "amount": "181259980222.46332"
+        }
+      ]
+    },
+    {
+      "votePubkey": "4BVYjw1ztUzUPsxsaCheWWwThT2X4rjogZytGnuWPUGg",
+      "sum": "203394715633.9642",
+      "wallets": [
+        {
+          "adress": "3NNXB9x4noYwhw3cpeYaEFaTPBmCQ8ZbkQx8vpeRiJwU",
+          "amount": "203394715633.9642"
+        }
+      ]
+    },
+    {
+      "votePubkey": "74y2qkCaJ5L17hTsz3E8jftNxTBCTvdz4P2L6qTHDW59",
+      "sum": "181607251531.63666",
+      "wallets": [
+        {
+          "adress": "6j6gPJ45s2rN781cHBaKzPksTnap7vzQDQtn4tLgGZ5a",
+          "amount": "181607251531.63666"
+        }
+      ]
+    },
+    {
+      "votePubkey": "mALLoAbdQrgsnm7kWJyPrhcQcmxfT73t8DaqEkpZNd6",
+      "sum": "3489298175.5168147",
+      "wallets": [
+        {
+          "adress": "MADMQ67GBNsVQPtq1ZnYSZzJ3Fd2gLJFWtT6bKWo97E",
+          "amount": "3489298175.5168147"
+        }
+      ]
+    },
+    {
+      "votePubkey": "21wUViiyG1g47VZ39ZZsSkFX9nu6bkyfy6jryHGD2TUB",
+      "sum": "148237543403.4357",
+      "wallets": [
+        {
+          "adress": "DUmJ5yKiNJ7Q9GtN2cmd95no4opuiNHKzTBHTdGvaSPC",
+          "amount": "148237543403.4357"
+        }
+      ]
+    },
+    {
+      "votePubkey": "DPmsofVJ1UMRZADgwYAHotJnazMwohHzRHSoomL6Qcao",
+      "sum": "53091123346.84631",
+      "wallets": [
+        {
+          "adress": "F8MzTpx1urznPUVdYaWeNzXJzndQbeifCzpJDHdQepYp",
+          "amount": "53091123346.84631"
+        }
+      ]
+    },
+    {
+      "votePubkey": "radYEig9KGrMTMWbWRFV7LStotQbnLgPaEFHVDsudQz",
+      "sum": "189435024099.21323",
+      "wallets": [
+        {
+          "adress": "57UJFiG4iNQRF9zE6SVCLJieb3AvmWrDqChP4vjuafYh",
+          "amount": "189435024099.21323"
+        }
+      ]
+    },
+    {
+      "votePubkey": "chrtyiAw8suFRvS7rTcfgcDyNu49bGPNZ2fjSPzNPFr",
+      "sum": "177222008640.55432",
+      "wallets": [
+        {
+          "adress": "DgGsKKf6tdt7e4iAJtwoNNWwW9jkF4W7RYGfmt8Xe55K",
+          "amount": "177222008640.55432"
+        }
+      ]
+    },
+    {
+      "votePubkey": "FLCrbfbwEhFARa8nK9rnZw8BVtKNAuHujh9EhWy5A4U4",
+      "sum": "5729548297.960099",
+      "wallets": [
+        {
+          "adress": "4YtDFTAtytVJmd32jAU59CvRiSTWGpPsdZWptdapk9z7",
+          "amount": "5729548297.960099"
+        }
+      ]
+    },
+    {
+      "votePubkey": "D3QPJm7BDzzPeRG51YZSEz3LfV7GvFNu9NkcibzURxuj",
+      "sum": "1765572438096.834",
+      "wallets": [
+        {
+          "adress": "3Btw1bVgJRFf7fz6WkHhPnSWVckhhHT6254dRFE98MGk",
+          "amount": "1765572438096.834"
+        }
+      ]
+    },
+    {
+      "votePubkey": "noMiSdYbNQmFDrH2qMvYRXXzb5DUvjyPyDkXadzAPUV",
+      "sum": "173963863795.07584",
+      "wallets": [
+        {
+          "adress": "FVtuDTb7MpmsCftehqZbXJoUSXkpee8FghucmCEDDjJ5",
+          "amount": "173963863795.07584"
+        }
+      ]
+    },
+    {
+      "votePubkey": "sdo2QoiSsPknraeCts5GeBkV3AYDdtuxJ3VpYCS1CxR",
+      "sum": "180306272064.62054",
+      "wallets": [
+        {
+          "adress": "CfJMXme9qJVWqCd4VDsre2eMd6Ej4ATfPKSnVB8yVvgL",
+          "amount": "180306272064.62054"
+        }
+      ]
+    }
+  ]
+}
